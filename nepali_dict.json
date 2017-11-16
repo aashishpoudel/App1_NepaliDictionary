@@ -1,0 +1,5836 @@
+{
+   "abandon": [
+      {
+         "Meaning": "v. छोड्नु, त्याग्नु",
+         "Sound": "sound1"
+      }
+   ],
+   "able": [
+      {
+         "Meaning": "v. सक्नु",
+         "Sound": "sound2"
+      }
+   ],
+   "accept": [
+      {
+         "Meaning": "v. अपनाउनु, स्विकार गर्नु​",
+         "Sound": "sound3"
+      }
+   ],
+   "accomplish": [
+      {
+         "Meaning": "v. ​​पुर्ण गर्नु, पुरा गर्नु",
+         "Sound": "sound4"
+      }
+   ],
+   "according": [
+      {
+         "Meaning": "v. अनुसार​, बमोजिम​, माफिक​",
+         "Sound": "sound5"
+      }
+   ],
+   "account-book": [
+      {
+         "Meaning": "n. श्रेस्ता, बही",
+         "Sound": "sound6"
+      }
+   ],
+   "acknowledge": [
+      {
+         "Meaning": "v. मान्नु, स्विकार गर्नु, प्राप्ति, सुचना दिनु",
+         "Sound": "sound7"
+      }
+   ],
+   "act": [
+      {
+         "Meaning": "n. कार्य​, काम​ / **Law** = (n) ऐन​",
+         "Sound": "sound8"
+      }
+   ],
+   "actions": [
+      {
+         "Meaning": "n. कार्बाही, काम कार्य​, नालिश​",
+         "Sound": "sound9"
+      }
+   ],
+   "activities": [
+      {
+         "Meaning": "n. चहलपहल, हलचल​",
+         "Sound": "sound10"
+      }
+   ],
+   "add": [
+      {
+         "Meaning": "v. जोडनु, थप्नु",
+         "Sound": "sound11"
+      }
+   ],
+   "addition": [
+      {
+         "Meaning": "n. जोड, थप",
+         "Sound": "sound12"
+      }
+   ],
+   "adjust": [
+      {
+         "Meaning": "v. मिलाउनु",
+         "Sound": "sound13"
+      }
+   ],
+   "administration": [
+      {
+         "Meaning": "n. ब्यबस्था, प्र्शासन​",
+         "Sound": "sound14"
+      }
+   ],
+   "admit": [
+      {
+         "Meaning": "v. मान्नु, भर्नाहुनु, स्बिकार गर्नु",
+         "Sound": "sound15"
+      }
+   ],
+   "admit in": [
+      {
+         "Meaning": "v. भर्ना गर्नु",
+         "Sound": "sound16"
+      }
+   ],
+   "advance": [
+      {
+         "Meaning": "n. पेश्की, बैना",
+         "Sound": "sound17"
+      }
+   ],
+   "advantage": [
+      {
+         "Meaning": "n. लाभ, फाईदा",
+         "Sound": "sound18"
+      }
+   ],
+   "adversary": [
+      {
+         "Meaning": "n. बिरोधी",
+         "Sound": "sound19"
+      }
+   ],
+   "advertisement": [
+      {
+         "Meaning": "n. बिज्ञापन​",
+         "Sound": "sound20"
+      }
+   ],
+   "advice": [
+      {
+         "Meaning": "n. सल्लाह",
+         "Sound": "sound21"
+      }
+   ],
+   "advise": [
+      {
+         "Meaning": "v. सल्लाह दिनु",
+         "Sound": "sound22"
+      }
+   ],
+   "aerogram": [
+      {
+         "Meaning": "n. हवाईपत्र",
+         "Sound": "sound23"
+      }
+   ],
+   "afternoon": [
+      {
+         "Meaning": "n. दिउसो",
+         "Sound": "sound24"
+      }
+   ],
+   "agree": [
+      {
+         "Meaning": "v. मान्नु",
+         "Sound": "sound25"
+      }
+   ],
+   "agreement": [
+      {
+         "Meaning": "n. मेल​, सहमत​",
+         "Sound": "sound26"
+      }
+   ],
+   "agriculture": [
+      {
+         "Meaning": "n. क्रिषि",
+         "Sound": "sound27"
+      }
+   ],
+   "aim": [
+      {
+         "Meaning": "n. लक्ष्य​, उदेश्य​",
+         "Sound": "sound28"
+      }
+   ],
+   "air": [
+      {
+         "Meaning": "n. हावा",
+         "Sound": "sound29"
+      }
+   ],
+   "airplane": [
+      {
+         "Meaning": "n. हवाईजहाज​",
+         "Sound": "sound30"
+      }
+   ],
+   "alcohol": [
+      {
+         "Meaning": "n. रकसी",
+         "Sound": "sound31"
+      }
+   ],
+   "allocate": [
+      {
+         "Meaning": "v. तोक्नु, स्थापन गर्नु",
+         "Sound": "sound32"
+      }
+   ],
+   "amaze": [
+      {
+         "Meaning": "v. आश्चर्य लाग्नु, अचम्म मान्नु",
+         "Sound": "sound33"
+      }
+   ],
+   "ambassador": [
+      {
+         "Meaning": "n. राजदुत​",
+         "Sound": "sound34"
+      }
+   ],
+   "amendment": [
+      {
+         "Meaning": "n. संशोधन​",
+         "Sound": "sound35"
+      }
+   ],
+   "amount": [
+      {
+         "Meaning": "n. रकम, जम्मा, स्पष्टि",
+         "Sound": "sound36"
+      }
+   ],
+   "animal": [
+      {
+         "Meaning": "n. पशु , जन्तु, जनावर",
+         "Sound": "sound37"
+      }
+   ],
+   "animal husbandry": [
+      {
+         "Meaning": "n. पशु पालन",
+         "Sound": "sound38"
+      }
+   ],
+   "answer": [
+      {
+         "Meaning": "n. जबाफ, उत्तर​",
+         "Sound": "sound39"
+      }
+   ],
+   "anthropology": [
+      {
+         "Meaning": "n. मानव शाब, शास्व​, नरदेह बिज्ञान​, न्रीबिज्ञान​",
+         "Sound": "sound40"
+      }
+   ],
+   "apartment": [
+      {
+         "Meaning": "n. डेरा",
+         "Sound": "sound41"
+      }
+   ],
+   "appearance": [
+      {
+         "Meaning": "n. रुप​, आकार, अनुहार​",
+         "Sound": "sound42"
+      }
+   ],
+   "apple": [
+      {
+         "Meaning": "n. स्याउ",
+         "Sound": "sound43"
+      }
+   ],
+   "appoint": [
+      {
+         "Meaning": "v. खटाउनु, तोक्नु, नियुक्ति गर्नु",
+         "Sound": "sound44"
+      }
+   ],
+   "approval": [
+      {
+         "Meaning": "n. अनुमति, अनुमोदन​, स्वीक्रित​",
+         "Sound": "sound45"
+      }
+   ],
+   "arch": [
+      {
+         "Meaning": "n. गुमज​",
+         "Sound": "sound46"
+      }
+   ],
+   "archway": [
+      {
+         "Meaning": "n. गुमज​",
+         "Sound": "sound47"
+      }
+   ],
+   "area": [
+      {
+         "Meaning": "n. इलाका, क्षेत्र",
+         "Sound": "sound48"
+      }
+   ],
+   "arena": [
+      {
+         "Meaning": "n. अखडा, कार्य क्षेत्र, रड्णभुमी",
+         "Sound": "sound49"
+      }
+   ],
+   "argument": [
+      {
+         "Meaning": "n. बिबाद​, बहस​",
+         "Sound": "sound50"
+      }
+   ],
+   "army": [
+      {
+         "Meaning": "n. सेना, सैनिक​",
+         "Sound": "sound51"
+      }
+   ],
+   "arrange": [
+      {
+         "Meaning": "v. थमलाउनु, ऐठक ठाक पा",
+         "Sound": "sound52"
+      }
+   ],
+   "arrangement": [
+      {
+         "Meaning": "n. बन्दोब्स्त​, ब्यब्स्था, प्र्बन्ध​",
+         "Sound": "sound53"
+      }
+   ],
+   "arrive": [
+      {
+         "Meaning": "v. आईपुग्नु, आगमन​",
+         "Sound": "sound54"
+      }
+   ],
+   "ash": [
+      {
+         "Meaning": "n. खरानी",
+         "Sound": "sound55"
+      }
+   ],
+   "ask": [
+      {
+         "Meaning": "v. सोध्नु, माग्नु",
+         "Sound": "sound56"
+      }
+   ],
+   "assembly": [
+      {
+         "Meaning": "n. सभा, जन समुदाय​",
+         "Sound": "sound57"
+      }
+   ],
+   "assistance": [
+      {
+         "Meaning": "n. सघाई, सहायता, सहयोग",
+         "Sound": "sound58"
+      }
+   ],
+   "assistant": [
+      {
+         "Meaning": "n. सहायक, सहयोगी",
+         "Sound": "sound59"
+      }
+   ],
+   "assume": [
+      {
+         "Meaning": "v. ठान्नु, धारण गर्नु",
+         "Sound": "sound60"
+      }
+   ],
+   "astrologer": [
+      {
+         "Meaning": "n. ज्योतिषी",
+         "Sound": "sound61"
+      }
+   ],
+   "atmosphere": [
+      {
+         "Meaning": "n. परिस्थिति, बाताबरण, वायु मण्डल​",
+         "Sound": "sound62"
+      }
+   ],
+   "attach": [
+      {
+         "Meaning": "v. नथ्थी गर्नु, जोड्नु, गाभ्नु",
+         "Sound": "sound63"
+      }
+   ],
+   "attack": [
+      {
+         "Meaning": "v. जाई लाग्नु, जोड्नु, गाभ्नु",
+         "Sound": "sound64"
+      }
+   ],
+   "attempt": [
+      {
+         "Meaning": "n. प्र्यत्न​, कोशिश​",
+         "Sound": "sound65"
+      }
+   ],
+   "authority": [
+      {
+         "Meaning": "n. अअधिकार​, प्राधिकार्, प्र्भुत्व​",
+         "Sound": "sound66"
+      }
+   ],
+   "authorization": [
+      {
+         "Meaning": "n. अधिकार​",
+         "Sound": "sound67"
+      }
+   ],
+   "available": [
+      {
+         "Meaning": "v. पाईनु",
+         "Sound": "sound68"
+      }
+   ],
+   "back": [
+      {
+         "Meaning": "n. पछाडि",
+         "Sound": "sound69"
+      }
+   ],
+   "bag": [
+      {
+         "Meaning": "n. झोला, थैलो",
+         "Sound": "sound70"
+      }
+   ],
+   "bamboo": [
+      {
+         "Meaning": "n. बाँस",
+         "Sound": "sound71"
+      }
+   ],
+   "bamboo shoot": [
+      {
+         "Meaning": "n. तामा",
+         "Sound": "sound72"
+      }
+   ],
+   "ban": [
+      {
+         "Meaning": "n. मनाही, मनाई, प्र्तिबन्ध​",
+         "Sound": "sound73"
+      }
+   ],
+   "banana": [
+      {
+         "Meaning": "n. कराे",
+         "Sound": "sound74"
+      }
+   ],
+   "base": [
+      {
+         "Meaning": "n. आधार, मुल​, जग",
+         "Sound": "sound75"
+      }
+   ],
+   "basis": [
+      {
+         "Meaning": "n. आधार, मुल​, जग",
+         "Sound": "sound76"
+      }
+   ],
+   "bask": [
+      {
+         "Meaning": "v. ताप्नु, सेक्नु",
+         "Sound": "sound77"
+      }
+   ],
+   "bathe": [
+      {
+         "Meaning": "v. नुहाउनु",
+         "Sound": "sound78"
+      }
+   ],
+   "bath": [
+      {
+         "Meaning": "v. नुहाउनु",
+         "Sound": "sound79"
+      }
+   ],
+   "bazaar": [
+      {
+         "Meaning": "n. बजार",
+         "Sound": "sound80"
+      }
+   ],
+   "be": [
+      {
+         "Meaning": "v. हुनु",
+         "Sound": "sound81"
+      }
+   ],
+   "bear": [
+      {
+         "Meaning": "n. भालु",
+         "Sound": "sound82"
+      }
+   ],
+   "beard": [
+      {
+         "Meaning": "n. दार्ही, दाढी",
+         "Sound": "sound83"
+      }
+   ],
+   "bedroom": [
+      {
+         "Meaning": "n. सुत्ने कोठा",
+         "Sound": "sound84"
+      }
+   ],
+   "beg": [
+      {
+         "Meaning": "v. माग्नु",
+         "Sound": "sound85"
+      }
+   ],
+   "begin": [
+      {
+         "Meaning": "v. शुरु गर्नु, थाल्नु",
+         "Sound": "sound86"
+      }
+   ],
+   "beginning": [
+      {
+         "Meaning": "n. आरम्भ​, शुरु, थालनी",
+         "Sound": "sound87"
+      }
+   ],
+   "behavior": [
+      {
+         "Meaning": "n. चालचलन, व्यवहार​",
+         "Sound": "sound88"
+      }
+   ],
+   "belief": [
+      {
+         "Meaning": "n. विश्वाश​",
+         "Sound": "sound89"
+      }
+   ],
+   "bell": [
+      {
+         "Meaning": "n. घंटी",
+         "Sound": "sound90"
+      }
+   ],
+   "bicycle": [
+      {
+         "Meaning": "n. साइकल",
+         "Sound": "sound91"
+      }
+   ],
+   "biology": [
+      {
+         "Meaning": "n. जिब​-बिज्ञान​, जिव्सास्त्र",
+         "Sound": "sound92"
+      }
+   ],
+   "black market": [
+      {
+         "Meaning": "n. कालो बजार",
+         "Sound": "sound93"
+      }
+   ],
+   "bloom": [
+      {
+         "Meaning": "v. फुल्नु",
+         "Sound": "sound94"
+      }
+   ],
+   "boil": [
+      {
+         "Meaning": "v. उमाल्नु",
+         "Sound": "sound95"
+      }
+   ],
+   "bone": [
+      {
+         "Meaning": "n. हाड",
+         "Sound": "sound96"
+      }
+   ],
+   "book": [
+      {
+         "Meaning": "n. किताब, पुस्तक​",
+         "Sound": "sound97"
+      }
+   ],
+   "boredom": [
+      {
+         "Meaning": "n. दिक्क",
+         "Sound": "sound98"
+      }
+   ],
+   "botany": [
+      {
+         "Meaning": "n. बनस्पति बिज्ञान​",
+         "Sound": "sound99"
+      }
+   ],
+   "bread": [
+      {
+         "Meaning": "n. रोटी",
+         "Sound": "sound100"
+      }
+   ],
+   "break": [
+      {
+         "Meaning": "v. भाच्नु",
+         "Sound": "sound101"
+      }
+   ],
+   "breath": [
+      {
+         "Meaning": "n. सास",
+         "Sound": "sound102"
+      }
+   ],
+   "breathe": [
+      {
+         "Meaning": "v. सास फेर्नु",
+         "Sound": "sound103"
+      }
+   ],
+   "bring": [
+      {
+         "Meaning": "v. ल्याउनु",
+         "Sound": "sound104"
+      }
+   ],
+   "bring away": [
+      {
+         "Meaning": "v. लिएर जानु, लैजानु",
+         "Sound": "sound105"
+      }
+   ],
+   "broadcast": [
+      {
+         "Meaning": "v. प्र्सारण गर्नु",
+         "Sound": "sound106"
+      }
+   ],
+   "broken": [
+      {
+         "Meaning": "v. बिग्रिनु",
+         "Sound": "sound107"
+      }
+   ],
+   "broom": [
+      {
+         "Meaning": "n. कुचो",
+         "Sound": "sound108"
+      }
+   ],
+   "budget": [
+      {
+         "Meaning": "n. बजेट्, आयव्ययको हिसाब​",
+         "Sound": "sound109"
+      }
+   ],
+   "building": [
+      {
+         "Meaning": "n. भवन",
+         "Sound": "sound110"
+      }
+   ],
+   "building Department": [
+      {
+         "Meaning": "n. भवन विभाग​",
+         "Sound": "sound111"
+      }
+   ],
+   "bus": [
+      {
+         "Meaning": "n. बस",
+         "Sound": "sound112"
+      }
+   ],
+   "bush": [
+      {
+         "Meaning": "n. झाडी",
+         "Sound": "sound113"
+      }
+   ],
+   "business": [
+      {
+         "Meaning": "n. व्यपार​, कामकाज​, व्यवसाय​",
+         "Sound": "sound114"
+      }
+   ],
+   "buy": [
+      {
+         "Meaning": "v. किन्नु",
+         "Sound": "sound115"
+      }
+   ],
+   "cage": [
+      {
+         "Meaning": "n. खोर",
+         "Sound": "sound116"
+      }
+   ],
+   "call": [
+      {
+         "Meaning": "v. बोलाउनु, डाक्नु",
+         "Sound": "sound117"
+      }
+   ],
+   "can": [
+      {
+         "Meaning": "v. सक्नु",
+         "Sound": "sound118"
+      }
+   ],
+   "capital sum": [
+      {
+         "Meaning": "n. साँउ, पुँजी",
+         "Sound": "sound119"
+      }
+   ],
+   "capitalism": [
+      {
+         "Meaning": "n. पुँजीबाद​",
+         "Sound": "sound120"
+      }
+   ],
+   "capitalist": [
+      {
+         "Meaning": "n. पुँजीवाल​, प्ँजीपति, धनीबर्ग​",
+         "Sound": "sound121"
+      }
+   ],
+   "car": [
+      {
+         "Meaning": "n. गाडि, मोटर​",
+         "Sound": "sound122"
+      }
+   ],
+   "care": [
+      {
+         "Meaning": "n. परवाह, जतन",
+         "Sound": "sound123"
+      }
+   ],
+   "carpenter": [
+      {
+         "Meaning": "n. सिकर्मी",
+         "Sound": "sound124"
+      }
+   ],
+   "carpet": [
+      {
+         "Meaning": "n. गलौंचा",
+         "Sound": "sound125"
+      }
+   ],
+   "case": [
+      {
+         "Meaning": "n. मुद्दा, झगडा, खोल",
+         "Sound": "sound126"
+      }
+   ],
+   "catch": [
+      {
+         "Meaning": "v. समात्नु",
+         "Sound": "sound127"
+      }
+   ],
+   "cattle": [
+      {
+         "Meaning": "n. गाई वस्तु",
+         "Sound": "sound128"
+      }
+   ],
+   "celebrate": [
+      {
+         "Meaning": "v. मनाउनु",
+         "Sound": "sound129"
+      }
+   ],
+   "cement": [
+      {
+         "Meaning": "n. सिमेन्ट​",
+         "Sound": "sound130"
+      }
+   ],
+   "center": [
+      {
+         "Meaning": "n. केन्द्र्​, बिच",
+         "Sound": "sound131"
+      }
+   ],
+   "certificate": [
+      {
+         "Meaning": "n. प्र्माणपत्र",
+         "Sound": "sound132"
+      }
+   ],
+   "chair": [
+      {
+         "Meaning": "n. मेच​",
+         "Sound": "sound133"
+      }
+   ],
+   "chairman": [
+      {
+         "Meaning": "n. अध्यक्ष, सभापती",
+         "Sound": "sound134"
+      }
+   ],
+   "chance": [
+      {
+         "Meaning": "n. मौका, अवसर",
+         "Sound": "sound135"
+      }
+   ],
+   "change": [
+      {
+         "Meaning": "n. परिवर्तन​",
+         "Sound": "sound136"
+      }
+   ],
+   "chat": [
+      {
+         "Meaning": "v. गफ गर्नु",
+         "Sound": "sound137"
+      }
+   ],
+   "cheese": [
+      {
+         "Meaning": "n. चिज​",
+         "Sound": "sound138"
+      }
+   ],
+   "chemistry": [
+      {
+         "Meaning": "n. रसायन शास्त्र​",
+         "Sound": "sound139"
+      }
+   ],
+   "chicken": [
+      {
+         "Meaning": "n. कुखुरा",
+         "Sound": "sound140"
+      }
+   ],
+   "chief": [
+      {
+         "Meaning": "n. नाईके, प्र्मुख​, सरदार​",
+         "Sound": "sound141"
+      }
+   ],
+   "children": [
+      {
+         "Meaning": "n. केटाकेटी",
+         "Sound": "sound142"
+      }
+   ],
+   "choice": [
+      {
+         "Meaning": "n. छनाई, रोजाई",
+         "Sound": "sound143"
+      }
+   ],
+   "choose": [
+      {
+         "Meaning": "v. छान्नु, रोज्नु",
+         "Sound": "sound144"
+      }
+   ],
+   "cigarette": [
+      {
+         "Meaning": "n. चुरोट​",
+         "Sound": "sound145"
+      }
+   ],
+   "cinema": [
+      {
+         "Meaning": "n. सिनेमा",
+         "Sound": "sound146"
+      }
+   ],
+   "circumstances": [
+      {
+         "Meaning": "n. परिस्थिति, हाल​, गति",
+         "Sound": "sound147"
+      }
+   ],
+   "city": [
+      {
+         "Meaning": "n. शहर",
+         "Sound": "sound148"
+      }
+   ],
+   "clash": [
+      {
+         "Meaning": "n. टक्कर​, बिरोध​",
+         "Sound": "sound149"
+      }
+   ],
+   "clerk": [
+      {
+         "Meaning": "n. बहिदार",
+         "Sound": "sound150"
+      }
+   ],
+   "cliff": [
+      {
+         "Meaning": "n. भिर​",
+         "Sound": "sound151"
+      }
+   ],
+   "climb": [
+      {
+         "Meaning": "v. चढ्नु",
+         "Sound": "sound152"
+      }
+   ],
+   "close": [
+      {
+         "Meaning": "v. बन्दु गर्नु",
+         "Sound": "sound153"
+      }
+   ],
+   "cloud": [
+      {
+         "Meaning": "n. बादल",
+         "Sound": "sound154"
+      }
+   ],
+   "coat": [
+      {
+         "Meaning": "n. कोट",
+         "Sound": "sound155"
+      }
+   ],
+   "code": [
+      {
+         "Meaning": "n. ऐन-सग्र्ह, ऐनको किताब​",
+         "Sound": "sound156"
+      }
+   ],
+   "coffee": [
+      {
+         "Meaning": "n. कफी",
+         "Sound": "sound157"
+      }
+   ],
+   "collect": [
+      {
+         "Meaning": "v. बटुल्नु, संकलन गर्नु, जम्मा गर्नु",
+         "Sound": "sound158"
+      }
+   ],
+   "color": [
+      {
+         "Meaning": "n. रङ्ग​",
+         "Sound": "sound159"
+      }
+   ],
+   "combine": [
+      {
+         "Meaning": "v. मिलाउनु, मिसाउनु",
+         "Sound": "sound160"
+      }
+   ],
+   "come": [
+      {
+         "Meaning": "v. आउनु",
+         "Sound": "sound161"
+      }
+   ],
+   "come out": [
+      {
+         "Meaning": "v. निक्लिनु",
+         "Sound": "sound162"
+      }
+   ],
+   "commentary": [
+      {
+         "Meaning": "n. प्र्वचन​, समीक्षा, टीका-टिप्पणी",
+         "Sound": "sound163"
+      }
+   ],
+   "committee": [
+      {
+         "Meaning": "n. समिति",
+         "Sound": "sound164"
+      }
+   ],
+   "communism": [
+      {
+         "Meaning": "n. साम्यबाद​",
+         "Sound": "sound165"
+      }
+   ],
+   "community": [
+      {
+         "Meaning": "n. समुदाय​, समाज​",
+         "Sound": "sound166"
+      }
+   ],
+   "compare": [
+      {
+         "Meaning": "v. दाँज्नु, तुलना गर्नु",
+         "Sound": "sound167"
+      }
+   ],
+   "comparison": [
+      {
+         "Meaning": "n. तलनाु, दजाई",
+         "Sound": "sound168"
+      }
+   ],
+   "competition": [
+      {
+         "Meaning": "n. प्र्तियोगिता, प्र्तिस्पर्दा, होड ​",
+         "Sound": "sound169"
+      }
+   ],
+   "complaint": [
+      {
+         "Meaning": "n. उजूर​, उजूरी",
+         "Sound": "sound170"
+      }
+   ],
+   "comply": [
+      {
+         "Meaning": "v. मान्नु, सहमत हुनु",
+         "Sound": "sound171"
+      }
+   ],
+   "condition": [
+      {
+         "Meaning": "n. हालत, परिस्थिति, स्थिति, अवस्था",
+         "Sound": "sound172"
+      }
+   ],
+   "conduct": [
+      {
+         "Meaning": "n. आचार, संचालन, चालचलन",
+         "Sound": "sound173"
+      },
+      {
+         "Meaning": "v. संचालन गर्नु",
+         "Sound": "sound174"
+      }
+   ],
+   "confidence": [
+      {
+         "Meaning": "n. बिश्वास​, दृढता, पत्यार​, भरोसा",
+         "Sound": "sound175"
+      }
+   ],
+   "connection": [
+      {
+         "Meaning": "n. सम्बन्ध​",
+         "Sound": "sound176"
+      }
+   ],
+   "constituency": [
+      {
+         "Meaning": "n. निर्वाचन क्षेत्र, निर्बाचन मण्डल​",
+         "Sound": "sound177"
+      }
+   ],
+   "construction": [
+      {
+         "Meaning": "n. निर्माण",
+         "Sound": "sound178"
+      }
+   ],
+   "consult": [
+      {
+         "Meaning": "v. सल्लाह लिनु, दिनु",
+         "Sound": "sound179"
+      }
+   ],
+   "continent": [
+      {
+         "Meaning": "n. महादेश​",
+         "Sound": "sound180"
+      }
+   ],
+   "contract": [
+      {
+         "Meaning": "n. ठेक्का",
+         "Sound": "sound181"
+      }
+   ],
+   "control": [
+      {
+         "Meaning": "n. कब्जा, नियन्त्रण",
+         "Sound": "sound182"
+      },
+      {
+         "Meaning": "v. कब्जामा राख्नु",
+         "Sound": "sound183"
+      }
+   ],
+   "convenience": [
+      {
+         "Meaning": "n. अनुकुल​, सुबिधा",
+         "Sound": "sound184"
+      }
+   ],
+   "convenient": [
+      {
+         "Meaning": "n. उचित​, सुबिधाजनक​",
+         "Sound": "sound185"
+      }
+   ],
+   "convince": [
+      {
+         "Meaning": "v. मनाउनु, संदेह हटाउनु, सम्झाउनु",
+         "Sound": "sound186"
+      }
+   ],
+   "cook": [
+      {
+         "Meaning": "v. पकाउनु",
+         "Sound": "sound187"
+      }
+   ],
+   "cooked": [
+      {
+         "Meaning": "v. पाक्नु",
+         "Sound": "sound188"
+      }
+   ],
+   "cooperation": [
+      {
+         "Meaning": "n. सहयोगिता, सहकारिता, समिती",
+         "Sound": "sound189"
+      }
+   ],
+   "cooperative": [
+      {
+         "Meaning": "n. सहकारी, सहयोगी, साझा",
+         "Sound": "sound190"
+      }
+   ],
+   "copy": [
+      {
+         "Meaning": "n. नक्कल​",
+         "Sound": "sound191"
+      }
+   ],
+   "copybook": [
+      {
+         "Meaning": "n. कापी",
+         "Sound": "sound192"
+      }
+   ],
+   "corn": [
+      {
+         "Meaning": "n. मकै",
+         "Sound": "sound193"
+      }
+   ],
+   "correct": [
+      {
+         "Meaning": "v. सुधार्नु, सच्याउनु",
+         "Sound": "sound194"
+      }
+   ],
+   "correction": [
+      {
+         "Meaning": "n. संशोधन​, भुल सुधार​",
+         "Sound": "sound195"
+      }
+   ],
+   "cost": [
+      {
+         "Meaning": "v. खर्च गर्नु, मोल​",
+         "Sound": "sound196"
+      }
+   ],
+   "cottage industry": [
+      {
+         "Meaning": "n. घरेलु, उघोग​",
+         "Sound": "sound197"
+      }
+   ],
+   "cottage": [
+      {
+         "Meaning": "n. झुपडी, झुप्रो",
+         "Sound": "sound198"
+      }
+   ],
+   "shack": [
+      {
+         "Meaning": "n. झुपडी, झुप्रो",
+         "Sound": "sound199"
+      }
+   ],
+   "cough": [
+      {
+         "Meaning": "n. खोकी",
+         "Sound": "sound200"
+      }
+   ],
+   "council": [
+      {
+         "Meaning": "n. परिषद, समिति",
+         "Sound": "sound201"
+      }
+   ],
+   "counsel": [
+      {
+         "Meaning": "v. सल्लाह दिनु, परामर्श दिनु",
+         "Sound": "sound202"
+      }
+   ],
+   "count": [
+      {
+         "Meaning": "v. गन्नु",
+         "Sound": "sound203"
+      }
+   ],
+   "country": [
+      {
+         "Meaning": "n. देश​, मुलुक​",
+         "Sound": "sound204"
+      }
+   ],
+   "court": [
+      {
+         "Meaning": "n. अदालत",
+         "Sound": "sound205"
+      }
+   ],
+   "courtyard": [
+      {
+         "Meaning": "n. आगँन​",
+         "Sound": "sound206"
+      }
+   ],
+   "cow-shed": [
+      {
+         "Meaning": "n. गोठ",
+         "Sound": "sound207"
+      }
+   ],
+   "cowshed": [
+      {
+         "Meaning": "n. गोठ",
+         "Sound": "sound208"
+      }
+   ],
+   "crab": [
+      {
+         "Meaning": "n. गङ्गटो",
+         "Sound": "sound209"
+      }
+   ],
+   "creditor": [
+      {
+         "Meaning": "n. साहु, रिणदाता",
+         "Sound": "sound210"
+      }
+   ],
+   "crop": [
+      {
+         "Meaning": "n. उब्जनी, उब्जाउ, अन्न​",
+         "Sound": "sound211"
+      }
+   ],
+   "crops": [
+      {
+         "Meaning": "n. बाली",
+         "Sound": "sound212"
+      }
+   ],
+   "cry": [
+      {
+         "Meaning": "v. रुनु",
+         "Sound": "sound213"
+      }
+   ],
+   "cultivated property": [
+      {
+         "Meaning": "n. खते-बारी",
+         "Sound": "sound214"
+      }
+   ],
+   "cultivation": [
+      {
+         "Meaning": "n. खेतीे-पाती",
+         "Sound": "sound215"
+      }
+   ],
+   "culture": [
+      {
+         "Meaning": "n. संस्कृती, रितिरिवाज​",
+         "Sound": "sound216"
+      }
+   ],
+   "cupboard": [
+      {
+         "Meaning": "n. दराज",
+         "Sound": "sound217"
+      }
+   ],
+   "cured": [
+      {
+         "Meaning": "n. निको हुनु, बिषेक हुनु",
+         "Sound": "sound218"
+      }
+   ],
+   "curiosity": [
+      {
+         "Meaning": "n. जिज्ञासा",
+         "Sound": "sound219"
+      }
+   ],
+   "custom": [
+      {
+         "Meaning": "n. चलन, रितिरिवाज​",
+         "Sound": "sound220"
+      }
+   ],
+   "cut": [
+      {
+         "Meaning": "v. काट्नु",
+         "Sound": "sound221"
+      }
+   ],
+   "dam": [
+      {
+         "Meaning": "n. बाँध",
+         "Sound": "sound222"
+      }
+   ],
+   "damage": [
+      {
+         "Meaning": "n. खति, नोक्सान​",
+         "Sound": "sound223"
+      }
+   ],
+   "dance": [
+      {
+         "Meaning": "v. नाच्नु",
+         "Sound": "sound224"
+      }
+   ],
+   "danger": [
+      {
+         "Meaning": "n. छुरी",
+         "Sound": "sound225"
+      }
+   ],
+   "dark": [
+      {
+         "Meaning": "n. अँध्यारो, अन्धकार​ / **color** (adj) गाडा",
+         "Sound": "sound226"
+      }
+   ],
+   "date": [
+      {
+         "Meaning": "n. मिति, गते, तारिख​",
+         "Sound": "sound227"
+      }
+   ],
+   "daughter-in-law": [
+      {
+         "Meaning": "n. बुहारी",
+         "Sound": "sound228"
+      }
+   ],
+   "day": [
+      {
+         "Meaning": "n. दिन",
+         "Sound": "sound229"
+      }
+   ],
+   "day-laborer": [
+      {
+         "Meaning": "n. ज्यामी, खेताला",
+         "Sound": "sound230"
+      }
+   ],
+   "dear": [
+      {
+         "Meaning": "n. प्रिय​, प्यारो",
+         "Sound": "sound231"
+      }
+   ],
+   "debt": [
+      {
+         "Meaning": "n. कर्जा, रिण",
+         "Sound": "sound232"
+      }
+   ],
+   "debtor": [
+      {
+         "Meaning": "n. रिणी, आसामी",
+         "Sound": "sound233"
+      }
+   ],
+   "decentralization": [
+      {
+         "Meaning": "n. बिकेन्द्रिकर​ण",
+         "Sound": "sound234"
+      }
+   ],
+   "decide": [
+      {
+         "Meaning": "v. तोक्नु, निस्चय गर्नु, निर्णय गर्नु",
+         "Sound": "sound235"
+      }
+   ],
+   "decision": [
+      {
+         "Meaning": "n. निस्चय, निर्णय",
+         "Sound": "sound236"
+      }
+   ],
+   "declare": [
+      {
+         "Meaning": "v. घोषणा गर्नु",
+         "Sound": "sound237"
+      }
+   ],
+   "decorate": [
+      {
+         "Meaning": "v. सजाउनु, भूषित गर्नु, अलंकृत गर्नु",
+         "Sound": "sound238"
+      }
+   ],
+   "decrease": [
+      {
+         "Meaning": "v. घट्नु, घटाउनु",
+         "Sound": "sound239"
+      }
+   ],
+   "deer": [
+      {
+         "Meaning": "n. मृग​",
+         "Sound": "sound240"
+      }
+   ],
+   "demand": [
+      {
+         "Meaning": "v. माग्नु, मगाउनु",
+         "Sound": "sound241"
+      },
+      {
+         "Meaning": "n. माग",
+         "Sound": "sound242"
+      }
+   ],
+   "democracy": [
+      {
+         "Meaning": "n. प्र्जातन्त्र, लोकतन्त्र",
+         "Sound": "sound243"
+      }
+   ],
+   "department": [
+      {
+         "Meaning": "n. बिभाग​",
+         "Sound": "sound244"
+      }
+   ],
+   "departure": [
+      {
+         "Meaning": "n. प्र्स्थान​, बिदा",
+         "Sound": "sound245"
+      }
+   ],
+   "depute": [
+      {
+         "Meaning": "v. खटाउनु",
+         "Sound": "sound246"
+      }
+   ],
+   "description": [
+      {
+         "Meaning": "n. बयान, बिबरण",
+         "Sound": "sound247"
+      }
+   ],
+   "desire": [
+      {
+         "Meaning": "n. इच्छा, रहर, मनसाय",
+         "Sound": "sound248"
+      }
+   ],
+   "destruction": [
+      {
+         "Meaning": "n. नाश, नष्ट​",
+         "Sound": "sound249"
+      }
+   ],
+   "details": [
+      {
+         "Meaning": "n. बिबरण​",
+         "Sound": "sound250"
+      }
+   ],
+   "development": [
+      {
+         "Meaning": "n. बिकास​",
+         "Sound": "sound251"
+      }
+   ],
+   "diamond": [
+      {
+         "Meaning": "n. हीरा",
+         "Sound": "sound252"
+      }
+   ],
+   "diarrhea": [
+      {
+         "Meaning": "n. दिसा",
+         "Sound": "sound253"
+      }
+   ],
+   "die": [
+      {
+         "Meaning": "v. मर्नु",
+         "Sound": "sound254"
+      }
+   ],
+   "difference": [
+      {
+         "Meaning": "n. अन्तर​, फरक​, भिन्नता",
+         "Sound": "sound255"
+      }
+   ],
+   "dig": [
+      {
+         "Meaning": "v. खन्नु",
+         "Sound": "sound256"
+      }
+   ],
+   "direct": [
+      {
+         "Meaning": "v. संचालन गर्नु",
+         "Sound": "sound257"
+      }
+   ],
+   "director": [
+      {
+         "Meaning": "n. निर्देशक​, संचालक",
+         "Sound": "sound258"
+      }
+   ],
+   "discipline": [
+      {
+         "Meaning": "n. अनुशासन​, नियम पालम​, संयम​",
+         "Sound": "sound259"
+      }
+   ],
+   "disease": [
+      {
+         "Meaning": "n. रोग",
+         "Sound": "sound260"
+      }
+   ],
+   "dismiss": [
+      {
+         "Meaning": "v. खारेज गर्नु, पदच्युत गर्नु",
+         "Sound": "sound261"
+      }
+   ],
+   "dispatch": [
+      {
+         "Meaning": "n. चलानी",
+         "Sound": "sound262"
+      }
+   ],
+   "display": [
+      {
+         "Meaning": "v. प्र्दर्शिन गर्नु",
+         "Sound": "sound263"
+      }
+   ],
+   "dispute": [
+      {
+         "Meaning": "n. अबबाद, मतभदे",
+         "Sound": "sound264"
+      }
+   ],
+   "dissent": [
+      {
+         "Meaning": "n. बिबाद​, मतभेद​",
+         "Sound": "sound265"
+      }
+   ],
+   "distribute": [
+      {
+         "Meaning": "v. बाडनु, बितरण गर्नु",
+         "Sound": "sound266"
+      }
+   ],
+   "district": [
+      {
+         "Meaning": "n. जिल्ला",
+         "Sound": "sound267"
+      }
+   ],
+   "divide": [
+      {
+         "Meaning": "v. भाग गर्नु",
+         "Sound": "sound268"
+      }
+   ],
+   "division": [
+      {
+         "Meaning": "n. भाग, बिभजन​",
+         "Sound": "sound269"
+      }
+   ],
+   "doctrine": [
+      {
+         "Meaning": "n. सिधान्त​",
+         "Sound": "sound270"
+      }
+   ],
+   "domesticate": [
+      {
+         "Meaning": "v. घरमा पाल्नु",
+         "Sound": "sound271"
+      }
+   ],
+   "donation": [
+      {
+         "Meaning": "n. चन्दा",
+         "Sound": "sound272"
+      }
+   ],
+   "doubt": [
+      {
+         "Meaning": "n. शंका",
+         "Sound": "sound273"
+      }
+   ],
+   "draft": [
+      {
+         "Meaning": "n. मसौदा",
+         "Sound": "sound274"
+      }
+   ],
+   "drink": [
+      {
+         "Meaning": "v. पिउनु",
+         "Sound": "sound275"
+      }
+   ],
+   "drive": [
+      {
+         "Meaning": "v. चलाउनु, हाक्नु",
+         "Sound": "sound276"
+      }
+   ],
+   "dropped": [
+      {
+         "Meaning": "v. खस्नु",
+         "Sound": "sound277"
+      }
+   ],
+   "drought": [
+      {
+         "Meaning": "n. अनाबृष्टि, खडेरी",
+         "Sound": "sound278"
+      }
+   ],
+   "duty": [
+      {
+         "Meaning": "n. कर्तब्य​ / **tax** (n) महशुल​, कर",
+         "Sound": "sound279"
+      }
+   ],
+   "ear": [
+      {
+         "Meaning": "n. कान",
+         "Sound": "sound280"
+      }
+   ],
+   "earn": [
+      {
+         "Meaning": "v. कमाउनु",
+         "Sound": "sound281"
+      }
+   ],
+   "east": [
+      {
+         "Meaning": "n. पुर्व​",
+         "Sound": "sound282"
+      }
+   ],
+   "eat": [
+      {
+         "Meaning": "v. खानु",
+         "Sound": "sound283"
+      }
+   ],
+   "economics": [
+      {
+         "Meaning": "n. अर्थ शास्त्र​",
+         "Sound": "sound284"
+      }
+   ],
+   "education": [
+      {
+         "Meaning": "n. शिक्षा",
+         "Sound": "sound285"
+      }
+   ],
+   "effect": [
+      {
+         "Meaning": "n. प्र्भाब​, असर​",
+         "Sound": "sound286"
+      }
+   ],
+   "effort": [
+      {
+         "Meaning": "n. कोशिश​, प्र्यत्न​",
+         "Sound": "sound287"
+      }
+   ],
+   "egg": [
+      {
+         "Meaning": "n. फुल​",
+         "Sound": "sound288"
+      }
+   ],
+   "elect": [
+      {
+         "Meaning": "v. चुन्नु, छान्नु",
+         "Sound": "sound289"
+      }
+   ],
+   "election": [
+      {
+         "Meaning": "n. निर्वाचन​, चुनाव​",
+         "Sound": "sound290"
+      }
+   ],
+   "elephant": [
+      {
+         "Meaning": "n. हात्ती",
+         "Sound": "sound291"
+      }
+   ],
+   "emerge": [
+      {
+         "Meaning": "v. निस्किनु, प्र्कट हुनु",
+         "Sound": "sound292"
+      }
+   ],
+   "emergency": [
+      {
+         "Meaning": "n. संङ्कटकालिन​, आपतकालिन​",
+         "Sound": "sound293"
+      }
+   ],
+   "employee": [
+      {
+         "Meaning": "n. कर्मचारी, नियोजित​",
+         "Sound": "sound294"
+      }
+   ],
+   "employment": [
+      {
+         "Meaning": "n. जागिर​, नियोजन​",
+         "Sound": "sound295"
+      }
+   ],
+   "energy": [
+      {
+         "Meaning": "n. तागत​, शक्ति",
+         "Sound": "sound296"
+      }
+   ],
+   "engineer": [
+      {
+         "Meaning": "n. इञिनियर​",
+         "Sound": "sound297"
+      }
+   ],
+   "enlarge": [
+      {
+         "Meaning": "v. बढाउनु",
+         "Sound": "sound298"
+      }
+   ],
+   "enough": [
+      {
+         "Meaning": "n. पुग्यो, पर्याप्त​, प्र्शस्त​, काफी",
+         "Sound": "sound299"
+      }
+   ],
+   "entertainment": [
+      {
+         "Meaning": "n. आमोद प्र्मोद, मनोरञन​",
+         "Sound": "sound300"
+      }
+   ],
+   "entitlement": [
+      {
+         "Meaning": "n. हक",
+         "Sound": "sound301"
+      }
+   ],
+   "entry": [
+      {
+         "Meaning": "n. दर्ता",
+         "Sound": "sound302"
+      }
+   ],
+   "equipment": [
+      {
+         "Meaning": "n. मालसमान, औजार",
+         "Sound": "sound303"
+      }
+   ],
+   "establish": [
+      {
+         "Meaning": "v. कायम गर्नु, स्थापित गर्नु",
+         "Sound": "sound304"
+      }
+   ],
+   "estimate": [
+      {
+         "Meaning": "n. अनमानु, इस्टमेट​, अन्दाज​",
+         "Sound": "sound305"
+      }
+   ],
+   "evaluate": [
+      {
+         "Meaning": "n. मुल्याङ्कन​",
+         "Sound": "sound306"
+      }
+   ],
+   "evaluation": [
+      {
+         "Meaning": "n. मुल्याङ्कन​",
+         "Sound": "sound307"
+      }
+   ],
+   "evening": [
+      {
+         "Meaning": "n. साँझ",
+         "Sound": "sound308"
+      }
+   ],
+   "exam": [
+      {
+         "Meaning": "n. जाँच, परिक्षा",
+         "Sound": "sound309"
+      }
+   ],
+   "examine": [
+      {
+         "Meaning": "v. जाँच्नु, परिक्षण गर्नु",
+         "Sound": "sound310"
+      }
+   ],
+   "example": [
+      {
+         "Meaning": "n. नमुना, उदाहर​ण",
+         "Sound": "sound311"
+      }
+   ],
+   "exceed": [
+      {
+         "Meaning": "v. नाग्नु, फडकनु",
+         "Sound": "sound312"
+      }
+   ],
+   "excess": [
+      {
+         "Meaning": "n. बढी",
+         "Sound": "sound313"
+      }
+   ],
+   "excuse": [
+      {
+         "Meaning": "v. माफ गर्नु, क्षमा गर्नु",
+         "Sound": "sound314"
+      }
+   ],
+   "exhibit": [
+      {
+         "Meaning": "v. प्र्दर्शन गर्नु",
+         "Sound": "sound315"
+      }
+   ],
+   "exhibition": [
+      {
+         "Meaning": "n. प्र्दर्शनी",
+         "Sound": "sound316"
+      }
+   ],
+   "expense": [
+      {
+         "Meaning": "n. खर्च​",
+         "Sound": "sound317"
+      }
+   ],
+   "experience": [
+      {
+         "Meaning": "n. अनुभव​, जानकारी, अनुभूती",
+         "Sound": "sound318"
+      }
+   ],
+   "expert": [
+      {
+         "Meaning": "n. विशेषज्ञ",
+         "Sound": "sound319"
+      }
+   ],
+   "explain": [
+      {
+         "Meaning": "v. बुझाउनु, बयान गर्नु, ब्याख्या गर्नु",
+         "Sound": "sound320"
+      }
+   ],
+   "explanation": [
+      {
+         "Meaning": "n. बयान, ब्याख्या",
+         "Sound": "sound321"
+      }
+   ],
+   "export": [
+      {
+         "Meaning": "v. निकासी गर्नु, निर्यात गर्नु",
+         "Sound": "sound322"
+      }
+   ],
+   "eye": [
+      {
+         "Meaning": "n. आँखा, नेत्र​, लोचन​",
+         "Sound": "sound323"
+      }
+   ],
+   "fact": [
+      {
+         "Meaning": "n. वास्तब​, त्थय​",
+         "Sound": "sound324"
+      }
+   ],
+   "factory": [
+      {
+         "Meaning": "n. कारखाना",
+         "Sound": "sound325"
+      }
+   ],
+   "fair": [
+      {
+         "Meaning": "n. प्र्दर्शनी, भेला, सन्तोषदायक​ / (adj) स्वच्छ​, इमान्दार​",
+         "Sound": "sound326"
+      }
+   ],
+   "faith": [
+      {
+         "Meaning": "n. विश्बाश​, निष्ठा",
+         "Sound": "sound327"
+      }
+   ],
+   "fall": [
+      {
+         "Meaning": "v. पर्नु, झर्नु, खस्नु",
+         "Sound": "sound328"
+      }
+   ],
+   "famine": [
+      {
+         "Meaning": "n. अनिकाल​, भोकमारी",
+         "Sound": "sound329"
+      }
+   ],
+   "farmer": [
+      {
+         "Meaning": "n. खेतिवाल​, किसान​",
+         "Sound": "sound330"
+      }
+   ],
+   "father": [
+      {
+         "Meaning": "n. बा, बुबा, बुवा, पिता",
+         "Sound": "sound331"
+      }
+   ],
+   "fatigue": [
+      {
+         "Meaning": "n. थकाई, थकावट​",
+         "Sound": "sound332"
+      }
+   ],
+   "fee": [
+      {
+         "Meaning": "n. महशुल​, दस्तुर​",
+         "Sound": "sound333"
+      }
+   ],
+   "feel": [
+      {
+         "Meaning": "v. लग्नु, छुनु, स्पर्श गर्नु, जाच्नु, अनुभब गर्नु",
+         "Sound": "sound334"
+      }
+   ],
+   "feel like": [
+      {
+         "Meaning": "v. मन लाग्नु",
+         "Sound": "sound335"
+      }
+   ],
+   "feeling": [
+      {
+         "Meaning": "n. भावना, विचार​",
+         "Sound": "sound336"
+      }
+   ],
+   "fence": [
+      {
+         "Meaning": "n. बार",
+         "Sound": "sound337"
+      }
+   ],
+   "fertilizer": [
+      {
+         "Meaning": "n. मल",
+         "Sound": "sound338"
+      }
+   ],
+   "field": [
+      {
+         "Meaning": "n. खेत​",
+         "Sound": "sound339"
+      }
+   ],
+   "field-trip": [
+      {
+         "Meaning": "n. भ्रमण​",
+         "Sound": "sound340"
+      }
+   ],
+   "field trip": [
+      {
+         "Meaning": "n. भ्रमण​",
+         "Sound": "sound341"
+      }
+   ],
+   "fill": [
+      {
+         "Meaning": "v. भर्नु",
+         "Sound": "sound342"
+      }
+   ],
+   "financier": [
+      {
+         "Meaning": "n. पुँजीपती, बित्त​-ब्यवस्थापक​",
+         "Sound": "sound343"
+      }
+   ],
+   "find": [
+      {
+         "Meaning": "v. पाउनु",
+         "Sound": "sound344"
+      }
+   ],
+   "firewood": [
+      {
+         "Meaning": "n. दाउरा",
+         "Sound": "sound345"
+      }
+   ],
+   "fish": [
+      {
+         "Meaning": "n. माछा",
+         "Sound": "sound346"
+      }
+   ],
+   "fish-pond": [
+      {
+         "Meaning": "n. माछा पोखरी",
+         "Sound": "sound347"
+      }
+   ],
+   "fish pond": [
+      {
+         "Meaning": "n. माछा पोखरी",
+         "Sound": "sound348"
+      }
+   ],
+   "floor": [
+      {
+         "Meaning": "n. तला",
+         "Sound": "sound349"
+      }
+   ],
+   "flour": [
+      {
+         "Meaning": "n. पिठो",
+         "Sound": "sound350"
+      }
+   ],
+   "flower": [
+      {
+         "Meaning": "n. फूल​",
+         "Sound": "sound351"
+      }
+   ],
+   "follow": [
+      {
+         "Meaning": "v. अपनाउनु, मान्नु",
+         "Sound": "sound352"
+      }
+   ],
+   "food": [
+      {
+         "Meaning": "n. खाना, खाने कुरा",
+         "Sound": "sound353"
+      }
+   ],
+   "forbid": [
+      {
+         "Meaning": "v. मानाई गर्नु, निषेध गर्नु",
+         "Sound": "sound354"
+      }
+   ],
+   "foreign country": [
+      {
+         "Meaning": "n. परदशे, बिदेश​",
+         "Sound": "sound355"
+      }
+   ],
+   "foreigner": [
+      {
+         "Meaning": "n. बिदेशी, परदेशी",
+         "Sound": "sound356"
+      }
+   ],
+   "foreman": [
+      {
+         "Meaning": "n. नाईके",
+         "Sound": "sound357"
+      }
+   ],
+   "forest": [
+      {
+         "Meaning": "n. वन, जङ्गल​",
+         "Sound": "sound358"
+      }
+   ],
+   "forget": [
+      {
+         "Meaning": "v. बिर्सनु",
+         "Sound": "sound359"
+      }
+   ],
+   "fork": [
+      {
+         "Meaning": "n. काँटा",
+         "Sound": "sound360"
+      }
+   ],
+   "form": [
+      {
+         "Meaning": "n. रूप​, फारम, आकार, आकृति",
+         "Sound": "sound361"
+      }
+   ],
+   "found": [
+      {
+         "Meaning": "v. रहनु, पाउनु",
+         "Sound": "sound362"
+      }
+   ],
+   "friday": [
+      {
+         "Meaning": "n. शुक्रबार​",
+         "Sound": "sound363"
+      }
+   ],
+   "friend": [
+      {
+         "Meaning": "n. साथी, मित्र, संगि",
+         "Sound": "sound364"
+      }
+   ],
+   "friendship": [
+      {
+         "Meaning": "n. मित्रता",
+         "Sound": "sound365"
+      }
+   ],
+   "frog": [
+      {
+         "Meaning": "n. भ्यागुतो",
+         "Sound": "sound366"
+      }
+   ],
+   "frost": [
+      {
+         "Meaning": "n. तुसारो",
+         "Sound": "sound367"
+      }
+   ],
+   "fruit": [
+      {
+         "Meaning": "n. फलफुल​",
+         "Sound": "sound368"
+      }
+   ],
+   "frustration": [
+      {
+         "Meaning": "n. नैराश्य​",
+         "Sound": "sound369"
+      }
+   ],
+   "function": [
+      {
+         "Meaning": "v. चालु हुनु, कार्य सम्पादन गर्नु, चल्नु",
+         "Sound": "sound370"
+      }
+   ],
+   "future": [
+      {
+         "Meaning": "n. भविश्य​",
+         "Sound": "sound371"
+      }
+   ],
+   "game": [
+      {
+         "Meaning": "n. खेल​",
+         "Sound": "sound372"
+      }
+   ],
+   "gap": [
+      {
+         "Meaning": "n. अन्तर​, खालि",
+         "Sound": "sound373"
+      }
+   ],
+   "gate": [
+      {
+         "Meaning": "n. ढोका",
+         "Sound": "sound374"
+      }
+   ],
+   "gather": [
+      {
+         "Meaning": "v. जम्मा गर्नु, बटुल्नु",
+         "Sound": "sound375"
+      }
+   ],
+   "gathering": [
+      {
+         "Meaning": "n. जमघटभेला",
+         "Sound": "sound376"
+      }
+   ],
+   "gender": [
+      {
+         "Meaning": "n. लिङ्ग​",
+         "Sound": "sound377"
+      }
+   ],
+   "gentleman": [
+      {
+         "Meaning": "n. भलादमी मानिस​",
+         "Sound": "sound378"
+      }
+   ],
+   "geography": [
+      {
+         "Meaning": "n. भुगोल​",
+         "Sound": "sound379"
+      }
+   ],
+   "germinate": [
+      {
+         "Meaning": "v. पैदा हुनु, टुसाउनु, अंकुरण हुनु",
+         "Sound": "sound380"
+      }
+   ],
+   "gesture": [
+      {
+         "Meaning": "n. संकेत​",
+         "Sound": "sound381"
+      }
+   ],
+   "get": [
+      {
+         "Meaning": "v. पाउनु",
+         "Sound": "sound382"
+      }
+   ],
+   "gift": [
+      {
+         "Meaning": "n. दान​, उपहार​, भेटी, कोशेली",
+         "Sound": "sound383"
+      }
+   ],
+   "give": [
+      {
+         "Meaning": "v. दिनु",
+         "Sound": "sound384"
+      }
+   ],
+   "give up": [
+      {
+         "Meaning": "v. छोड्नु, त्याग्नु",
+         "Sound": "sound385"
+      }
+   ],
+   "glass": [
+      {
+         "Meaning": "n. शिशा",
+         "Sound": "sound386"
+      }
+   ],
+   "go": [
+      {
+         "Meaning": "v. जानु",
+         "Sound": "sound387"
+      }
+   ],
+   "goal": [
+      {
+         "Meaning": "n. उदेश्य​, लक्ष्य​",
+         "Sound": "sound388"
+      }
+   ],
+   "god": [
+      {
+         "Meaning": "n. भगवान, इश्वर​",
+         "Sound": "sound389"
+      }
+   ],
+   "god family": [
+      {
+         "Meaning": "n. कुलदेवता",
+         "Sound": "sound390"
+      }
+   ],
+   "goddess": [
+      {
+         "Meaning": "n. देवी",
+         "Sound": "sound391"
+      }
+   ],
+   "gold": [
+      {
+         "Meaning": "n. सुन​",
+         "Sound": "sound392"
+      }
+   ],
+   "goods": [
+      {
+         "Meaning": "n. माल, मालसामान, चिजबिज​",
+         "Sound": "sound393"
+      }
+   ],
+   "government": [
+      {
+         "Meaning": "n. सरकार",
+         "Sound": "sound394"
+      }
+   ],
+   "grab": [
+      {
+         "Meaning": "v. समात्नु, पक्र्नु",
+         "Sound": "sound395"
+      }
+   ],
+   "grain": [
+      {
+         "Meaning": "n. अनाज, अन्न​",
+         "Sound": "sound396"
+      }
+   ],
+   "grandfather": [
+      {
+         "Meaning": "n. हजुरबा, बाजे",
+         "Sound": "sound397"
+      }
+   ],
+   "grandmother": [
+      {
+         "Meaning": "n. हजुरआमा, बज्यै",
+         "Sound": "sound398"
+      }
+   ],
+   "grant": [
+      {
+         "Meaning": "n. अनुदान​, वृत्ति",
+         "Sound": "sound399"
+      }
+   ],
+   "grass": [
+      {
+         "Meaning": "n. घाँस",
+         "Sound": "sound400"
+      }
+   ],
+   "graze": [
+      {
+         "Meaning": "v. चराउनु",
+         "Sound": "sound401"
+      }
+   ],
+   "growth": [
+      {
+         "Meaning": "n. बृद्धि",
+         "Sound": "sound402"
+      }
+   ],
+   "guard": [
+      {
+         "Meaning": "n. पाले",
+         "Sound": "sound403"
+      }
+   ],
+   "guess": [
+      {
+         "Meaning": "n. अनुमान​, अन्दाज​",
+         "Sound": "sound404"
+      }
+   ],
+   "guest": [
+      {
+         "Meaning": "n. पाहुना, पाउना",
+         "Sound": "sound405"
+      }
+   ],
+   "guidance": [
+      {
+         "Meaning": "n. मार्ग निर्देश्न​",
+         "Sound": "sound406"
+      }
+   ],
+   "habit": [
+      {
+         "Meaning": "n. बानी",
+         "Sound": "sound407"
+      }
+   ],
+   "hail": [
+      {
+         "Meaning": "n. असिना",
+         "Sound": "sound408"
+      }
+   ],
+   "hair": [
+      {
+         "Meaning": "n. कपाल",
+         "Sound": "sound409"
+      }
+   ],
+   "half": [
+      {
+         "Meaning": "n. साढे",
+         "Sound": "sound410"
+      }
+   ],
+   "hand": [
+      {
+         "Meaning": "n. हात",
+         "Sound": "sound411"
+      }
+   ],
+   "harm": [
+      {
+         "Meaning": "n. नोक्सान, खति",
+         "Sound": "sound412"
+      }
+   ],
+   "head": [
+      {
+         "Meaning": "n. टाउको",
+         "Sound": "sound413"
+      }
+   ],
+   "headman": [
+      {
+         "Meaning": "n. मुखीया",
+         "Sound": "sound414"
+      }
+   ],
+   "headquarters": [
+      {
+         "Meaning": "n. सदर-मुकाम​",
+         "Sound": "sound415"
+      }
+   ],
+   "health": [
+      {
+         "Meaning": "n. स्वास्थ्य​",
+         "Sound": "sound416"
+      }
+   ],
+   "hear": [
+      {
+         "Meaning": "v. सुन्नु",
+         "Sound": "sound417"
+      }
+   ],
+   "heat": [
+      {
+         "Meaning": "n. ताप",
+         "Sound": "sound418"
+      }
+   ],
+   "heaven": [
+      {
+         "Meaning": "n. स्वर्ग​",
+         "Sound": "sound419"
+      }
+   ],
+   "height": [
+      {
+         "Meaning": "n. उचाई",
+         "Sound": "sound420"
+      }
+   ],
+   "help": [
+      {
+         "Meaning": "v. मदत गर्नु, सगाउनु",
+         "Sound": "sound421"
+      }
+   ],
+   "highway": [
+      {
+         "Meaning": "n. सडक (ठुलो)",
+         "Sound": "sound422"
+      }
+   ],
+   "himalaya": [
+      {
+         "Meaning": "n. हिमाल​",
+         "Sound": "sound423"
+      }
+   ],
+   "hint": [
+      {
+         "Meaning": "n. सङ्केत​",
+         "Sound": "sound424"
+      }
+   ],
+   "hire": [
+      {
+         "Meaning": "n. भाडा",
+         "Sound": "sound425"
+      }
+   ],
+   "historical": [
+      {
+         "Meaning": "n. ऐतिहासिक​",
+         "Sound": "sound426"
+      }
+   ],
+   "history": [
+      {
+         "Meaning": "n. इतिहास​",
+         "Sound": "sound427"
+      }
+   ],
+   "hold": [
+      {
+         "Meaning": "v. समात्नु",
+         "Sound": "sound428"
+      }
+   ],
+   "holiday": [
+      {
+         "Meaning": "n. बिदा, छुट्टी",
+         "Sound": "sound429"
+      }
+   ],
+   "home": [
+      {
+         "Meaning": "n. घर",
+         "Sound": "sound430"
+      }
+   ],
+   "homeland": [
+      {
+         "Meaning": "n. स्वदेश​",
+         "Sound": "sound431"
+      }
+   ],
+   "honor": [
+      {
+         "Meaning": "n. इज्जत​, सम्मान​",
+         "Sound": "sound432"
+      }
+   ],
+   "hope": [
+      {
+         "Meaning": "n. आशा",
+         "Sound": "sound433"
+      }
+   ],
+   "hospital": [
+      {
+         "Meaning": "n. अस्पताल​, चिकित्सालय​ / **meternity** (n) प्र्सुती गृह​",
+         "Sound": "sound434"
+      }
+   ],
+   "hour": [
+      {
+         "Meaning": "n. घण्टा",
+         "Sound": "sound435"
+      }
+   ],
+   "house": [
+      {
+         "Meaning": "n. घर",
+         "Sound": "sound436"
+      }
+   ],
+   "housework": [
+      {
+         "Meaning": "n. घरको काम, गृहकार्य​",
+         "Sound": "sound437"
+      }
+   ],
+   "human being": [
+      {
+         "Meaning": "n. मानव-जाती",
+         "Sound": "sound438"
+      }
+   ],
+   "hundred": [
+      {
+         "Meaning": "n. सय",
+         "Sound": "sound439"
+      }
+   ],
+   "hunger": [
+      {
+         "Meaning": "n. भोक",
+         "Sound": "sound440"
+      }
+   ],
+   "hurry": [
+      {
+         "Meaning": "n. हत्तपत्त​, हतार​",
+         "Sound": "sound441"
+      }
+   ],
+   "idea": [
+      {
+         "Meaning": "n. राय, बिचार​",
+         "Sound": "sound442"
+      }
+   ],
+   "ignorance": [
+      {
+         "Meaning": "n. अज्ञान​, अनजान​",
+         "Sound": "sound443"
+      }
+   ],
+   "importance": [
+      {
+         "Meaning": "n. महत्व​",
+         "Sound": "sound444"
+      }
+   ],
+   "improve": [
+      {
+         "Meaning": "v. सुधार्नु, उन्नती गर्नु, सपार्नु",
+         "Sound": "sound445"
+      }
+   ],
+   "improvement": [
+      {
+         "Meaning": "n. सुधार​, उन्न्ती, सपारिएको",
+         "Sound": "sound446"
+      }
+   ],
+   "include": [
+      {
+         "Meaning": "v. समावेश गर्नु",
+         "Sound": "sound447"
+      }
+   ],
+   "income": [
+      {
+         "Meaning": "n. आम्दानी, आय​",
+         "Sound": "sound448"
+      }
+   ],
+   "income tax": [
+      {
+         "Meaning": "n. आय कर",
+         "Sound": "sound449"
+      }
+   ],
+   "increase": [
+      {
+         "Meaning": "v. बढनु",
+         "Sound": "sound450"
+      }
+   ],
+   "indicate": [
+      {
+         "Meaning": "v. निर्देश गर्नु, देखाउनु, सङ्केत गर्नु",
+         "Sound": "sound451"
+      }
+   ],
+   "individual": [
+      {
+         "Meaning": "n. व्यक्ति",
+         "Sound": "sound452"
+      }
+   ],
+   "industry": [
+      {
+         "Meaning": "n. उद्धोग​, परिश्रम​",
+         "Sound": "sound453"
+      }
+   ],
+   "influence": [
+      {
+         "Meaning": "n. प्र्भाब​",
+         "Sound": "sound454"
+      }
+   ],
+   "information": [
+      {
+         "Meaning": "n. सुचना",
+         "Sound": "sound455"
+      }
+   ],
+   "injection": [
+      {
+         "Meaning": "n. सुइ",
+         "Sound": "sound456"
+      }
+   ],
+   "ink": [
+      {
+         "Meaning": "n. मसी",
+         "Sound": "sound457"
+      }
+   ],
+   "inspect": [
+      {
+         "Meaning": "v. परिदर्शन गर्नु, निरिक्षण गर्नु, जाँच गर्नु",
+         "Sound": "sound458"
+      }
+   ],
+   "inspection": [
+      {
+         "Meaning": "n. परिदर्शन, निरिक्षण, जाँच, सर्बेक्षण",
+         "Sound": "sound459"
+      }
+   ],
+   "inspector": [
+      {
+         "Meaning": "n. निरिक्षक​, प्र्शिक्षक​",
+         "Sound": "sound460"
+      }
+   ],
+   "institution": [
+      {
+         "Meaning": "n. संस्था",
+         "Sound": "sound461"
+      }
+   ],
+   "insult": [
+      {
+         "Meaning": "n. बेइज्जती, अपमान​",
+         "Sound": "sound462"
+      }
+   ],
+   "intention": [
+      {
+         "Meaning": "n. इरादा, मतलब​, मनशाय​, अभिप्राय​",
+         "Sound": "sound463"
+      }
+   ],
+   "interest": [
+      {
+         "Meaning": "n. ब्याज​",
+         "Sound": "sound464"
+      }
+   ],
+   "interim": [
+      {
+         "Meaning": "n. अन्तरिम​",
+         "Sound": "sound465"
+      }
+   ],
+   "interview": [
+      {
+         "Meaning": "n. अन्तरवार्ता",
+         "Sound": "sound466"
+      }
+   ],
+   "introduction": [
+      {
+         "Meaning": "n. परिचय​, भूमिका, प्र्स्तावन​",
+         "Sound": "sound467"
+      }
+   ],
+   "invite": [
+      {
+         "Meaning": "v. डाकनु, बोलाउनु, निम्ता गर्नु",
+         "Sound": "sound468"
+      }
+   ],
+   "iron": [
+      {
+         "Meaning": "n. फलाम​",
+         "Sound": "sound469"
+      }
+   ],
+   "irrigate": [
+      {
+         "Meaning": "v. पानी लगाउनु, सिँचाई गर्नु",
+         "Sound": "sound470"
+      }
+   ],
+   "irrigation": [
+      {
+         "Meaning": "n. सिँचाई",
+         "Sound": "sound471"
+      }
+   ],
+   "irrigation ditch": [
+      {
+         "Meaning": "n. कूलो",
+         "Sound": "sound472"
+      }
+   ],
+   "item": [
+      {
+         "Meaning": "n. दफा, रकम, एक -एक कलम",
+         "Sound": "sound473"
+      }
+   ],
+   "jacket": [
+      {
+         "Meaning": "n. ज्याकेट​",
+         "Sound": "sound474"
+      }
+   ],
+   "jail": [
+      {
+         "Meaning": "n. झ्यालखाना",
+         "Sound": "sound475"
+      }
+   ],
+   "job": [
+      {
+         "Meaning": "n. काम, जागिर​, ब्यबसाय​",
+         "Sound": "sound476"
+      }
+   ],
+   "join": [
+      {
+         "Meaning": "v. जोड्नु",
+         "Sound": "sound477"
+      }
+   ],
+   "journey": [
+      {
+         "Meaning": "n. यात्रा,भ्रमण​, सफर​",
+         "Sound": "sound478"
+      }
+   ],
+   "judge": [
+      {
+         "Meaning": "n. न्यायाधिस",
+         "Sound": "sound479"
+      }
+   ],
+   "judgment": [
+      {
+         "Meaning": "n. न्याय​, इन्साफ​, अदालतको फैसला",
+         "Sound": "sound480"
+      }
+   ],
+   "jump": [
+      {
+         "Meaning": "v. उफ्र्नु",
+         "Sound": "sound481"
+      }
+   ],
+   "justice": [
+      {
+         "Meaning": "n. न्याय​, इन्साफ​",
+         "Sound": "sound482"
+      }
+   ],
+   "kerosene": [
+      {
+         "Meaning": "n. मट्टितेल​",
+         "Sound": "sound483"
+      }
+   ],
+   "kind": [
+      {
+         "Meaning": "n. किसिम​, थोक​, प्रकार​",
+         "Sound": "sound484"
+      }
+   ],
+   "kingdom": [
+      {
+         "Meaning": "n. अधिराज्य​",
+         "Sound": "sound485"
+      }
+   ],
+   "kitchen": [
+      {
+         "Meaning": "n. भान्सा, भान्चा",
+         "Sound": "sound486"
+      }
+   ],
+   "knowledge": [
+      {
+         "Meaning": "n. ज्ञान​",
+         "Sound": "sound487"
+      }
+   ],
+   "labor": [
+      {
+         "Meaning": "n. श्रम​",
+         "Sound": "sound488"
+      }
+   ],
+   "lake": [
+      {
+         "Meaning": "n. ताल",
+         "Sound": "sound489"
+      }
+   ],
+   "land": [
+      {
+         "Meaning": "n. जमीन, जग्गा",
+         "Sound": "sound490"
+      }
+   ],
+   "land reform": [
+      {
+         "Meaning": "n. भूमी सुधार",
+         "Sound": "sound491"
+      }
+   ],
+   "landless": [
+      {
+         "Meaning": "n. सुकुम्बासी",
+         "Sound": "sound492"
+      }
+   ],
+   "landowner": [
+      {
+         "Meaning": "n. जमिन्दार​",
+         "Sound": "sound493"
+      }
+   ],
+   "language": [
+      {
+         "Meaning": "n. भाषा",
+         "Sound": "sound494"
+      }
+   ],
+   "laugh": [
+      {
+         "Meaning": "v. हास्नु",
+         "Sound": "sound495"
+      }
+   ],
+   "law": [
+      {
+         "Meaning": "n. ऐन, कानुन​",
+         "Sound": "sound496"
+      }
+   ],
+   "lawsuit": [
+      {
+         "Meaning": "n. मुद्दा",
+         "Sound": "sound497"
+      }
+   ],
+   "layer": [
+      {
+         "Meaning": "n. तह",
+         "Sound": "sound498"
+      }
+   ],
+   "lead": [
+      {
+         "Meaning": "n. सिसा, परिचालन​",
+         "Sound": "sound499"
+      }
+   ],
+   "leader": [
+      {
+         "Meaning": "n. नाईके, नेता, मार्ग​-दर्शक​",
+         "Sound": "sound500"
+      }
+   ],
+   "leadership": [
+      {
+         "Meaning": "n. नेतृत्व​",
+         "Sound": "sound501"
+      }
+   ],
+   "leaf": [
+      {
+         "Meaning": "n. पात",
+         "Sound": "sound502"
+      }
+   ],
+   "learn": [
+      {
+         "Meaning": "v. सिक्नु",
+         "Sound": "sound503"
+      }
+   ],
+   "leather": [
+      {
+         "Meaning": "n. छाला",
+         "Sound": "sound504"
+      }
+   ],
+   "leave": [
+      {
+         "Meaning": "v. छोड्नु",
+         "Sound": "sound505"
+      },
+      {
+         "Meaning": "n. छुट्टि, बिदा",
+         "Sound": "sound506"
+      }
+   ],
+   "lecture": [
+      {
+         "Meaning": "n. प्र्वचन​, ब्याख्यान​",
+         "Sound": "sound507"
+      }
+   ],
+   "left over": [
+      {
+         "Meaning": "v. उब्रि्नु, बाकी",
+         "Sound": "sound508"
+      }
+   ],
+   "legal code": [
+      {
+         "Meaning": "n. मुलुकी ऐन​",
+         "Sound": "sound509"
+      }
+   ],
+   "leisure": [
+      {
+         "Meaning": "n. फुर्सद, फुर्सत​",
+         "Sound": "sound510"
+      }
+   ],
+   "lesson": [
+      {
+         "Meaning": "n. पाठ, शिक्ष, उपदेश​",
+         "Sound": "sound511"
+      }
+   ],
+   "letter": [
+      {
+         "Meaning": "n. चिट्ठी, पत्र् / **alphabet** (n) अक्षर",
+         "Sound": "sound512"
+      }
+   ],
+   "level": [
+      {
+         "Meaning": "n. स्तर​, श्रेणी",
+         "Sound": "sound513"
+      }
+   ],
+   "library": [
+      {
+         "Meaning": "n. पुस्तकालय​",
+         "Sound": "sound514"
+      }
+   ],
+   "license": [
+      {
+         "Meaning": "n. अनुमति, अनुमतिपत्र्, लाईसेन्स​",
+         "Sound": "sound515"
+      }
+   ],
+   "life": [
+      {
+         "Meaning": "n. जीवन",
+         "Sound": "sound516"
+      }
+   ],
+   "lift": [
+      {
+         "Meaning": "v. उचाल्नु, उठाउनु",
+         "Sound": "sound517"
+      }
+   ],
+   "light": [
+      {
+         "Meaning": "n. उज्यालो / **color** (adj) फिक्का",
+         "Sound": "sound518"
+      }
+   ],
+   "like": [
+      {
+         "Meaning": "v. मन पर्नु / **similar to** (prep) जस्तो, जस्तै",
+         "Sound": "sound519"
+      }
+   ],
+   "lime": [
+      {
+         "Meaning": "n. कागती",
+         "Sound": "sound520"
+      }
+   ],
+   "link": [
+      {
+         "Meaning": "n. सम्बन्ध्, जोर्नी",
+         "Sound": "sound521"
+      }
+   ],
+   "liquor": [
+      {
+         "Meaning": "n. रकसी",
+         "Sound": "sound522"
+      }
+   ],
+   "list": [
+      {
+         "Meaning": "n. सूची, सूचिपत्र्, तपसील​",
+         "Sound": "sound523"
+      }
+   ],
+   "listen": [
+      {
+         "Meaning": "v. सुन्नु",
+         "Sound": "sound524"
+      }
+   ],
+   "literature": [
+      {
+         "Meaning": "n. साहित्य​",
+         "Sound": "sound525"
+      }
+   ],
+   "living standard": [
+      {
+         "Meaning": "n. हैसियत​, स्तर​",
+         "Sound": "sound526"
+      }
+   ],
+   "load": [
+      {
+         "Meaning": "n. भारी",
+         "Sound": "sound527"
+      }
+   ],
+   "look": [
+      {
+         "Meaning": "v. हेर्नु",
+         "Sound": "sound528"
+      }
+   ],
+   "loom": [
+      {
+         "Meaning": "n. तान्",
+         "Sound": "sound529"
+      }
+   ],
+   "loss": [
+      {
+         "Meaning": "n. खती, नोक्सान​",
+         "Sound": "sound530"
+      }
+   ],
+   "love": [
+      {
+         "Meaning": "v. माया गर्नु",
+         "Sound": "sound531"
+      }
+   ],
+   "love-talk": [
+      {
+         "Meaning": "n. प्रेम​-वार्ता",
+         "Sound": "sound532"
+      }
+   ],
+   "machine": [
+      {
+         "Meaning": "n. कल, यन्त्र्",
+         "Sound": "sound533"
+      }
+   ],
+   "magazine": [
+      {
+         "Meaning": "n. पत्रिका",
+         "Sound": "sound534"
+      }
+   ],
+   "magician": [
+      {
+         "Meaning": "n. जादुगर​, चटकी",
+         "Sound": "sound535"
+      }
+   ],
+   "maintenance": [
+      {
+         "Meaning": "n. पालन पोषण​, जिविका, प्र्तिपालन​, जीविका",
+         "Sound": "sound536"
+      }
+   ],
+   "majority": [
+      {
+         "Meaning": "n. अधिकांश​, बहुमत​, बहुसंख्या",
+         "Sound": "sound537"
+      }
+   ],
+   "make": [
+      {
+         "Meaning": "v. बनाउनु",
+         "Sound": "sound538"
+      }
+   ],
+   "malaria": [
+      {
+         "Meaning": "n. औलजरो, औलो",
+         "Sound": "sound539"
+      }
+   ],
+   "male": [
+      {
+         "Meaning": "n. भाले / **human** (n) लोग्ने मान्छे",
+         "Sound": "sound540"
+      }
+   ],
+   "management": [
+      {
+         "Meaning": "n. बन्दोबस्त​, व्यवस्था",
+         "Sound": "sound541"
+      }
+   ],
+   "manner": [
+      {
+         "Meaning": "n. ढंग​, शिष्टाचार​, चलन, चालचलन",
+         "Sound": "sound542"
+      }
+   ],
+   "manure": [
+      {
+         "Meaning": "n. मल",
+         "Sound": "sound543"
+      }
+   ],
+   "map": [
+      {
+         "Meaning": "n. नक्शा",
+         "Sound": "sound544"
+      }
+   ],
+   "mars": [
+      {
+         "Meaning": "n. मङ्गल​",
+         "Sound": "sound545"
+      }
+   ],
+   "math": [
+      {
+         "Meaning": "n. हिसाब​",
+         "Sound": "sound546"
+      }
+   ],
+   "matter": [
+      {
+         "Meaning": "n. पदार्थ​",
+         "Sound": "sound547"
+      }
+   ],
+   "meaning": [
+      {
+         "Meaning": "n. मतलब, माने",
+         "Sound": "sound548"
+      }
+   ],
+   "means": [
+      {
+         "Meaning": "n. उपाय",
+         "Sound": "sound549"
+      }
+   ],
+   "measurement": [
+      {
+         "Meaning": "n. नाप",
+         "Sound": "sound550"
+      }
+   ],
+   "meat": [
+      {
+         "Meaning": "n. मासु",
+         "Sound": "sound551"
+      }
+   ],
+   "mechanic": [
+      {
+         "Meaning": "n. मिस्त्री, कालीगढ",
+         "Sound": "sound552"
+      }
+   ],
+   "medicine": [
+      {
+         "Meaning": "n. औषधि,ओखती",
+         "Sound": "sound553"
+      }
+   ],
+   "meet": [
+      {
+         "Meaning": "v. भेट्नु",
+         "Sound": "sound554"
+      }
+   ],
+   "meeting": [
+      {
+         "Meaning": "n. बैठक​, जमघाट​, गोष्ठी, भेट​",
+         "Sound": "sound555"
+      }
+   ],
+   "member": [
+      {
+         "Meaning": "n. सदस्य​",
+         "Sound": "sound556"
+      }
+   ],
+   "membership": [
+      {
+         "Meaning": "n. सदस्यता",
+         "Sound": "sound557"
+      }
+   ],
+   "memorize": [
+      {
+         "Meaning": "v. याद गर्नु, सम्झनु",
+         "Sound": "sound558"
+      }
+   ],
+   "mentality": [
+      {
+         "Meaning": "n. स्वभाब​, मनोबृत्ति, मानसिक शक्त्ति",
+         "Sound": "sound559"
+      }
+   ],
+   "method": [
+      {
+         "Meaning": "n. उपाय​, ढंङ्ग​, तरिका, प्र्णाली",
+         "Sound": "sound560"
+      }
+   ],
+   "middle": [
+      {
+         "Meaning": "n. माझ​, बीच​",
+         "Sound": "sound561"
+      }
+   ],
+   "military": [
+      {
+         "Meaning": "n. सैनिक​, सेना",
+         "Sound": "sound562"
+      }
+   ],
+   "milk": [
+      {
+         "Meaning": "n. दूध​",
+         "Sound": "sound563"
+      }
+   ],
+   "millionaire": [
+      {
+         "Meaning": "n. लखपती",
+         "Sound": "sound564"
+      }
+   ],
+   "mind": [
+      {
+         "Meaning": "n. मन​, दिल​, चित्त​",
+         "Sound": "sound565"
+      }
+   ],
+   "minister": [
+      {
+         "Meaning": "n. मन्त्री",
+         "Sound": "sound566"
+      }
+   ],
+   "ministry": [
+      {
+         "Meaning": "n. मन्त्रालय​",
+         "Sound": "sound567"
+      }
+   ],
+   "miser": [
+      {
+         "Meaning": "n. क॑ जुस, कञ्जुस​, चुय्याँ, कृपण​, लोभी",
+         "Sound": "sound568"
+      }
+   ],
+   "mix": [
+      {
+         "Meaning": "v. मिसाउनु",
+         "Sound": "sound569"
+      }
+   ],
+   "model": [
+      {
+         "Meaning": "n. आदर्श​, नमुना",
+         "Sound": "sound570"
+      }
+   ],
+   "moment": [
+      {
+         "Meaning": "n. छिन​, क्षण​",
+         "Sound": "sound571"
+      }
+   ],
+   "monday": [
+      {
+         "Meaning": "n. सोमबार",
+         "Sound": "sound572"
+      }
+   ],
+   "monkey": [
+      {
+         "Meaning": "n. बाँदर",
+         "Sound": "sound573"
+      }
+   ],
+   "monsoon": [
+      {
+         "Meaning": "n. बर्सात​, बर्षा",
+         "Sound": "sound574"
+      }
+   ],
+   "month": [
+      {
+         "Meaning": "n. महिना",
+         "Sound": "sound575"
+      }
+   ],
+   "morning": [
+      {
+         "Meaning": "n. बिहान",
+         "Sound": "sound576"
+      }
+   ],
+   "mother": [
+      {
+         "Meaning": "n. आमा, मुमा",
+         "Sound": "sound577"
+      }
+   ],
+   "mountain": [
+      {
+         "Meaning": "n. पाहाड",
+         "Sound": "sound578"
+      }
+   ],
+   "mouth": [
+      {
+         "Meaning": "n. मुख​",
+         "Sound": "sound579"
+      }
+   ],
+   "move": [
+      {
+         "Meaning": "v. चल्नु",
+         "Sound": "sound580"
+      }
+   ],
+   "mr": [
+      {
+         "Meaning": "n. श्रिमान​, माहासाय​",
+         "Sound": "sound581"
+      }
+   ],
+   "mrs": [
+      {
+         "Meaning": "n. श्रिमति",
+         "Sound": "sound582"
+      }
+   ],
+   "multiplication": [
+      {
+         "Meaning": "n. गुणन​",
+         "Sound": "sound583"
+      }
+   ],
+   "mustard": [
+      {
+         "Meaning": "n. तोरी",
+         "Sound": "sound584"
+      }
+   ],
+   "nail": [
+      {
+         "Meaning": "n. कीला",
+         "Sound": "sound585"
+      }
+   ],
+   "name": [
+      {
+         "Meaning": "n. नाम",
+         "Sound": "sound586"
+      }
+   ],
+   "nature": [
+      {
+         "Meaning": "n. प्रकृती / **character** (n) स्वभाब​",
+         "Sound": "sound587"
+      }
+   ],
+   "need": [
+      {
+         "Meaning": "v. चाहिनु, आवश्यक हुनु",
+         "Sound": "sound588"
+      }
+   ],
+   "to be needed": [
+      {
+         "Meaning": "v. चाहिनु, आवश्यक हुनु",
+         "Sound": "sound589"
+      }
+   ],
+   "needed": [
+      {
+         "Meaning": "v. चाहिनु, आवश्यक हुनु",
+         "Sound": "sound590"
+      }
+   ],
+   "news": [
+      {
+         "Meaning": "n. खबर, समाचार",
+         "Sound": "sound591"
+      }
+   ],
+   "newspaper": [
+      {
+         "Meaning": "n. अखबार, पत्रपत्रिका",
+         "Sound": "sound592"
+      }
+   ],
+   "night": [
+      {
+         "Meaning": "n. राती",
+         "Sound": "sound593"
+      }
+   ],
+   "noise": [
+      {
+         "Meaning": "n. हल्ला",
+         "Sound": "sound594"
+      }
+   ],
+   "north": [
+      {
+         "Meaning": "n. उत्तर​",
+         "Sound": "sound595"
+      }
+   ],
+   "nose": [
+      {
+         "Meaning": "n. नाक",
+         "Sound": "sound596"
+      }
+   ],
+   "notice": [
+      {
+         "Meaning": "n. सुचना",
+         "Sound": "sound597"
+      }
+   ],
+   "notice board": [
+      {
+         "Meaning": "n. सुचना पाटी",
+         "Sound": "sound598"
+      }
+   ],
+   "novel": [
+      {
+         "Meaning": "n. उपन्यास",
+         "Sound": "sound599"
+      }
+   ],
+   "obey": [
+      {
+         "Meaning": "v. मान्नु",
+         "Sound": "sound600"
+      }
+   ],
+   "occupation": [
+      {
+         "Meaning": "n. कामकाज​, वृत्ति, पेशा, इलम​",
+         "Sound": "sound601"
+      }
+   ],
+   "offering": [
+      {
+         "Meaning": "n. प्र्साद​, बलि, भेटी, नैबेध​",
+         "Sound": "sound602"
+      }
+   ],
+   "office": [
+      {
+         "Meaning": "n. कार्यलय​",
+         "Sound": "sound603"
+      }
+   ],
+   "officer": [
+      {
+         "Meaning": "n. अधिकारी, कर्मचारी",
+         "Sound": "sound604"
+      }
+   ],
+   "open": [
+      {
+         "Meaning": "v. खोलनु",
+         "Sound": "sound605"
+      }
+   ],
+   "opinion": [
+      {
+         "Meaning": "n. बुचार​, राय​",
+         "Sound": "sound606"
+      }
+   ],
+   "opponent": [
+      {
+         "Meaning": "n. बुरोधी",
+         "Sound": "sound607"
+      }
+   ],
+   "opportunity": [
+      {
+         "Meaning": "n. मौका",
+         "Sound": "sound608"
+      }
+   ],
+   "opposition": [
+      {
+         "Meaning": "n. प्र्तियोग​, बिरोध​, बिपक्षता, बैरभाब​",
+         "Sound": "sound609"
+      }
+   ],
+   "orange": [
+      {
+         "Meaning": "n. सुन्तला",
+         "Sound": "sound610"
+      }
+   ],
+   "order": [
+      {
+         "Meaning": "n. हुकुम​, आज्ञा, आदेश​",
+         "Sound": "sound611"
+      }
+   ],
+   "ordinance": [
+      {
+         "Meaning": "n. अध्यादेश​, रिती, नियम​, बिशेष आज्ञा",
+         "Sound": "sound612"
+      }
+   ],
+   "organization": [
+      {
+         "Meaning": "n. संस्था, संगठन​",
+         "Sound": "sound613"
+      }
+   ],
+   "organizer": [
+      {
+         "Meaning": "n. आयोजक, ब्यबस्थापक​",
+         "Sound": "sound614"
+      }
+   ],
+   "outside": [
+      {
+         "Meaning": "n. बाहिर​",
+         "Sound": "sound615"
+      }
+   ],
+   "overcome": [
+      {
+         "Meaning": "v. विजयी हुनु, दनन गर्नु",
+         "Sound": "sound616"
+      }
+   ],
+   "pack": [
+      {
+         "Meaning": "n. पोको, भारी, कुम्लो, बट्टा",
+         "Sound": "sound617"
+      }
+   ],
+   "paper": [
+      {
+         "Meaning": "n. कागत, कागज",
+         "Sound": "sound618"
+      }
+   ],
+   "pardon": [
+      {
+         "Meaning": "v. माफ गर्नु",
+         "Sound": "sound619"
+      }
+   ],
+   "parents": [
+      {
+         "Meaning": "n. बा-आमा",
+         "Sound": "sound620"
+      }
+   ],
+   "part": [
+      {
+         "Meaning": "n. भाग, खण्ड​, हिस्सा",
+         "Sound": "sound621"
+      }
+   ],
+   "partnership": [
+      {
+         "Meaning": "n. साझेदार​, हिस्सेदार​, महभागिता",
+         "Sound": "sound622"
+      }
+   ],
+   "party": [
+      {
+         "Meaning": "n. भोज / **political** (n) दल, पक्ष",
+         "Sound": "sound623"
+      }
+   ],
+   "pay": [
+      {
+         "Meaning": "v. तिर्नु",
+         "Sound": "sound624"
+      },
+      {
+         "Meaning": "n. तलब, ज्याला, पारिश्रामिक",
+         "Sound": "sound625"
+      }
+   ],
+   "peace": [
+      {
+         "Meaning": "n. शान्ति",
+         "Sound": "sound626"
+      }
+   ],
+   "peace corps": [
+      {
+         "Meaning": "n. शान्ति सेना",
+         "Sound": "sound627"
+      }
+   ],
+   "peasant": [
+      {
+         "Meaning": "n. किसान​, खेतिवाल​",
+         "Sound": "sound628"
+      }
+   ],
+   "pen": [
+      {
+         "Meaning": "n. कलम",
+         "Sound": "sound629"
+      }
+   ],
+   "people": [
+      {
+         "Meaning": "n. जनताह्रु, लोक​, जन​, प्र्जा",
+         "Sound": "sound630"
+      }
+   ],
+   "pepper": [
+      {
+         "Meaning": "n. खुर्सानी",
+         "Sound": "sound631"
+      }
+   ],
+   "percent": [
+      {
+         "Meaning": "n. प्र्तिशत",
+         "Sound": "sound632"
+      }
+   ],
+   "permission": [
+      {
+         "Meaning": "n. अनुमती",
+         "Sound": "sound633"
+      }
+   ],
+   "person": [
+      {
+         "Meaning": "n. मान्छे, मानिस​",
+         "Sound": "sound634"
+      }
+   ],
+   "persuade": [
+      {
+         "Meaning": "v. मनाउनु, विश्वास गराउनु, भ्रम हटाइनु",
+         "Sound": "sound635"
+      }
+   ],
+   "petition": [
+      {
+         "Meaning": "n. दरखास्त​, अर्जी, बिन्तिपत्र​",
+         "Sound": "sound636"
+      }
+   ],
+   "physics": [
+      {
+         "Meaning": "n. भौतिक शास्त्र्",
+         "Sound": "sound637"
+      }
+   ],
+   "picture": [
+      {
+         "Meaning": "n. नक्शा, तस्वीर​",
+         "Sound": "sound638"
+      }
+   ],
+   "piece": [
+      {
+         "Meaning": "n. भाग​, हिस्सा, टुक्रा, प्रवन्ध रचना",
+         "Sound": "sound639"
+      }
+   ],
+   "pineapple": [
+      {
+         "Meaning": "n. भुईकटहर​",
+         "Sound": "sound640"
+      }
+   ],
+   "place": [
+      {
+         "Meaning": "n. स्थान​, ठाउँ",
+         "Sound": "sound641"
+      }
+   ],
+   "plan": [
+      {
+         "Meaning": "n. उपाय​, अभिप्राय​, योजना",
+         "Sound": "sound642"
+      }
+   ],
+   "planet": [
+      {
+         "Meaning": "n. ग्र्ह​, नक्षत्र",
+         "Sound": "sound643"
+      }
+   ],
+   "plant": [
+      {
+         "Meaning": "n. बिरुवा, बोट​",
+         "Sound": "sound644"
+      }
+   ],
+   "play": [
+      {
+         "Meaning": "v. खेल्नु",
+         "Sound": "sound645"
+      },
+      {
+         "Meaning": "v. बजाउनु",
+         "Sound": "sound646"
+      }
+   ],
+   "playing field": [
+      {
+         "Meaning": "n. मैदान​",
+         "Sound": "sound647"
+      }
+   ],
+   "please": [
+      {
+         "Meaning": "n. कृपया",
+         "Sound": "sound648"
+      }
+   ],
+   "plenty": [
+      {
+         "Meaning": "n. प्र्शस्त​",
+         "Sound": "sound649"
+      }
+   ],
+   "plough": [
+      {
+         "Meaning": "v. जोत्नु",
+         "Sound": "sound650"
+      }
+   ],
+   "pocket": [
+      {
+         "Meaning": "n. बगली, खल्ती",
+         "Sound": "sound651"
+      }
+   ],
+   "policy": [
+      {
+         "Meaning": "n. नीति",
+         "Sound": "sound652"
+      }
+   ],
+   "political science": [
+      {
+         "Meaning": "n. राजनीति शास्त्र्",
+         "Sound": "sound653"
+      }
+   ],
+   "politics": [
+      {
+         "Meaning": "n. राजनीति",
+         "Sound": "sound654"
+      }
+   ],
+   "population": [
+      {
+         "Meaning": "n. जनसंख्या",
+         "Sound": "sound655"
+      }
+   ],
+   "position": [
+      {
+         "Meaning": "n. स्थान​, पद​, अबस्था",
+         "Sound": "sound656"
+      }
+   ],
+   "post office": [
+      {
+         "Meaning": "n. हुलाक​",
+         "Sound": "sound657"
+      }
+   ],
+   "postman": [
+      {
+         "Meaning": "n. हुलाकी",
+         "Sound": "sound658"
+      }
+   ],
+   "potato": [
+      {
+         "Meaning": "n. आलु",
+         "Sound": "sound659"
+      }
+   ],
+   "power": [
+      {
+         "Meaning": "n. सामर्थ्य​, शक्ति, क्षम्ता, बल​, तेज​",
+         "Sound": "sound660"
+      }
+   ],
+   "practice": [
+      {
+         "Meaning": "n. अभ्यास​, प्र्था, ब्यवहार​",
+         "Sound": "sound661"
+      }
+   ],
+   "practise": [
+      {
+         "Meaning": "v. मान्नु, अभ्यास गर्नु",
+         "Sound": "sound662"
+      }
+   ],
+   "present": [
+      {
+         "Meaning": "v. प्र्स्तुत गर्नु, पेश गर्नु, हाजिर हुनु",
+         "Sound": "sound663"
+      }
+   ],
+   "president": [
+      {
+         "Meaning": "n. राष्ट्र्पति",
+         "Sound": "sound664"
+      }
+   ],
+   "prestige": [
+      {
+         "Meaning": "n. इज्जत​, शान​, प्र्तिष्ठा",
+         "Sound": "sound665"
+      }
+   ],
+   "price": [
+      {
+         "Meaning": "n. मोल, मलयू, भाउ",
+         "Sound": "sound666"
+      }
+   ],
+   "pride": [
+      {
+         "Meaning": "n. धमण्ड​, गर्ब​, अहंकार​",
+         "Sound": "sound667"
+      }
+   ],
+   "prime minister": [
+      {
+         "Meaning": "n. प्र्धान​-मन्त्री",
+         "Sound": "sound668"
+      }
+   ],
+   "principle": [
+      {
+         "Meaning": "n. नियम​, सूत्र्, सिधान्त​",
+         "Sound": "sound669"
+      }
+   ],
+   "priority": [
+      {
+         "Meaning": "n. प्राथमिकता",
+         "Sound": "sound670"
+      }
+   ],
+   "problem": [
+      {
+         "Meaning": "n. समस्या",
+         "Sound": "sound671"
+      }
+   ],
+   "procedure": [
+      {
+         "Meaning": "n. संचालन गर्ने तरिका, व्याबहार​। कार्य​-बिधि",
+         "Sound": "sound672"
+      }
+   ],
+   "profession": [
+      {
+         "Meaning": "n. बृत्ती, पेशा",
+         "Sound": "sound673"
+      }
+   ],
+   "profit": [
+      {
+         "Meaning": "n. मुनाफा, नाफा, लाभ​",
+         "Sound": "sound674"
+      }
+   ],
+   "program": [
+      {
+         "Meaning": "n. कार्यक्रम​",
+         "Sound": "sound675"
+      }
+   ],
+   "progress": [
+      {
+         "Meaning": "n. प्र्गती, उन्नती",
+         "Sound": "sound676"
+      }
+   ],
+   "prohibit": [
+      {
+         "Meaning": "v. मनाई, निषेध​, प्र्तिबन्ध​",
+         "Sound": "sound677"
+      }
+   ],
+   "prohibition": [
+      {
+         "Meaning": "n. मनाही, निषेध्, प्रतिबन्ध​",
+         "Sound": "sound678"
+      }
+   ],
+   "project": [
+      {
+         "Meaning": "n. योजना",
+         "Sound": "sound679"
+      }
+   ],
+   "promise": [
+      {
+         "Meaning": "v. प्र्तिज्ञा गर्नु, कबूल गर्नु",
+         "Sound": "sound680"
+      }
+   ],
+   "promotion": [
+      {
+         "Meaning": "n. बढुवा, उन्नती, श्रेष्ठ पद पाउनु",
+         "Sound": "sound681"
+      }
+   ],
+   "proof": [
+      {
+         "Meaning": "n. प्र्माण​",
+         "Sound": "sound682"
+      }
+   ],
+   "property": [
+      {
+         "Meaning": "n. मालसामान​, सम्प्ती",
+         "Sound": "sound683"
+      }
+   ],
+   "proposal": [
+      {
+         "Meaning": "n. प्र्स्ताब​",
+         "Sound": "sound684"
+      }
+   ],
+   "protect": [
+      {
+         "Meaning": "v. सुरक्षा गर्नु, संरक्षित राख्नु, रक्षा गर्नु",
+         "Sound": "sound685"
+      }
+   ],
+   "protection": [
+      {
+         "Meaning": "n. संरक्षिता, रक्षा",
+         "Sound": "sound686"
+      }
+   ],
+   "protest": [
+      {
+         "Meaning": "n. प्र्तिवद​, बिरोध​",
+         "Sound": "sound687"
+      }
+   ],
+   "public": [
+      {
+         "Meaning": "n. सामान्यजन​, प्र्ज्ञा, जनता",
+         "Sound": "sound688"
+      }
+   ],
+   "public health": [
+      {
+         "Meaning": "n. जनव्वास्थ्य​",
+         "Sound": "sound689"
+      }
+   ],
+   "public service": [
+      {
+         "Meaning": "n. लोकसेवा",
+         "Sound": "sound690"
+      }
+   ],
+   "publicity": [
+      {
+         "Meaning": "n. प्र्चार​, प्र्सार​",
+         "Sound": "sound691"
+      }
+   ],
+   "pull": [
+      {
+         "Meaning": "v. तान्नु, उखेल्नु",
+         "Sound": "sound692"
+      }
+   ],
+   "punishment": [
+      {
+         "Meaning": "n. सजाय, दण्ड​",
+         "Sound": "sound693"
+      }
+   ],
+   "pupil": [
+      {
+         "Meaning": "n. छात्र्",
+         "Sound": "sound694"
+      }
+   ],
+   "purchase": [
+      {
+         "Meaning": "n. खरीद",
+         "Sound": "sound695"
+      }
+   ],
+   "purpose": [
+      {
+         "Meaning": "n. मक्सद​, मनसाय​, आसय​, अभिप्राय​",
+         "Sound": "sound696"
+      }
+   ],
+   "put": [
+      {
+         "Meaning": "v. राख्नु / **put (on)** (v) लगाउनु",
+         "Sound": "sound697"
+      }
+   ],
+   "qualification": [
+      {
+         "Meaning": "n. योेयता",
+         "Sound": "sound698"
+      }
+   ],
+   "quality": [
+      {
+         "Meaning": "n. गुण​",
+         "Sound": "sound699"
+      }
+   ],
+   "quarter": [
+      {
+         "Meaning": "n. सवा",
+         "Sound": "sound700"
+      }
+   ],
+   "quarter to": [
+      {
+         "Meaning": "n. पौने",
+         "Sound": "sound701"
+      }
+   ],
+   "question": [
+      {
+         "Meaning": "n. प्र्श्न​",
+         "Sound": "sound702"
+      }
+   ],
+   "questionnaire": [
+      {
+         "Meaning": "n. प्र्श्नवली",
+         "Sound": "sound703"
+      }
+   ],
+   "quiet": [
+      {
+         "Meaning": "v. चुप लाग्नु",
+         "Sound": "sound704"
+      }
+   ],
+   "quit": [
+      {
+         "Meaning": "v. छोड्नु",
+         "Sound": "sound705"
+      }
+   ],
+   "quota": [
+      {
+         "Meaning": "n. कोटा, दरबन्दी",
+         "Sound": "sound706"
+      }
+   ],
+   "radio": [
+      {
+         "Meaning": "n. रेडियो",
+         "Sound": "sound707"
+      }
+   ],
+   "rain": [
+      {
+         "Meaning": "v. पानी पर्नु",
+         "Sound": "sound708"
+      }
+   ],
+   "raincoat": [
+      {
+         "Meaning": "n. बर्ष​दी",
+         "Sound": "sound709"
+      }
+   ],
+   "raksi": [
+      {
+         "Meaning": "n. रक्सी",
+         "Sound": "sound710"
+      }
+   ],
+   "rank": [
+      {
+         "Meaning": "n. पद​, मान​",
+         "Sound": "sound711"
+      }
+   ],
+   "rate": [
+      {
+         "Meaning": "n. दर​, गति, भाउ",
+         "Sound": "sound712"
+      }
+   ],
+   "ratification": [
+      {
+         "Meaning": "n. समर्थन​, अनुमोदन​",
+         "Sound": "sound713"
+      }
+   ],
+   "reach": [
+      {
+         "Meaning": "v. पुग्नु, बिस्तृत हुनु",
+         "Sound": "sound714"
+      }
+   ],
+   "reaction": [
+      {
+         "Meaning": "n. प्र्तिकृया",
+         "Sound": "sound715"
+      }
+   ],
+   "read": [
+      {
+         "Meaning": "v. पढ्नु",
+         "Sound": "sound716"
+      }
+   ],
+   "real": [
+      {
+         "Meaning": "n. खास​, वस्तबिक​",
+         "Sound": "sound717"
+      }
+   ],
+   "reality": [
+      {
+         "Meaning": "n. सत्यता, वास्तबिकता",
+         "Sound": "sound718"
+      }
+   ],
+   "realization": [
+      {
+         "Meaning": "n. महसूस​",
+         "Sound": "sound719"
+      }
+   ],
+   "realize": [
+      {
+         "Meaning": "v. अनुबव गर्नु, महसूस गर्नु",
+         "Sound": "sound720"
+      }
+   ],
+   "receipt": [
+      {
+         "Meaning": "n. रसिद​",
+         "Sound": "sound721"
+      }
+   ],
+   "receive": [
+      {
+         "Meaning": "v. पाउनु",
+         "Sound": "sound722"
+      }
+   ],
+   "recognize": [
+      {
+         "Meaning": "v. चिन्नु",
+         "Sound": "sound723"
+      }
+   ],
+   "recommendation": [
+      {
+         "Meaning": "n. सिफारिस​",
+         "Sound": "sound724"
+      }
+   ],
+   "reconcile": [
+      {
+         "Meaning": "v. मिलाउनु, मेलमिलाप गर्नु, पुनर्मेल गर्नु",
+         "Sound": "sound725"
+      }
+   ],
+   "reform": [
+      {
+         "Meaning": "n. सुधार​ / (v)सुधार्नु",
+         "Sound": "sound726"
+      }
+   ],
+   "region": [
+      {
+         "Meaning": "n. इलाका, क्षेत्र​",
+         "Sound": "sound727"
+      }
+   ],
+   "relation": [
+      {
+         "Meaning": "n. नाता, सम्बन्ध​",
+         "Sound": "sound728"
+      }
+   ],
+   "relationship": [
+      {
+         "Meaning": "n. सम्बन्ध​",
+         "Sound": "sound729"
+      }
+   ],
+   "religion": [
+      {
+         "Meaning": "n. धर्म​",
+         "Sound": "sound730"
+      }
+   ],
+   "remain": [
+      {
+         "Meaning": "v. रहनु",
+         "Sound": "sound731"
+      }
+   ],
+   "remember": [
+      {
+         "Meaning": "v. याद गर्नु, सम्झनु",
+         "Sound": "sound732"
+      }
+   ],
+   "remind": [
+      {
+         "Meaning": "v. सम्झाउनु",
+         "Sound": "sound733"
+      }
+   ],
+   "remove": [
+      {
+         "Meaning": "v. हटाउनु",
+         "Sound": "sound734"
+      }
+   ],
+   "rent": [
+      {
+         "Meaning": "v. महशुल​, भाडा",
+         "Sound": "sound735"
+      }
+   ],
+   "repair": [
+      {
+         "Meaning": "v. मरमत गर्नु",
+         "Sound": "sound736"
+      }
+   ],
+   "replace": [
+      {
+         "Meaning": "v. बदली गर्नु",
+         "Sound": "sound737"
+      }
+   ],
+   "replacement": [
+      {
+         "Meaning": "n. बदली",
+         "Sound": "sound738"
+      }
+   ],
+   "reply": [
+      {
+         "Meaning": "n. जवाफ​, उत्तर​",
+         "Sound": "sound739"
+      }
+   ],
+   "representative": [
+      {
+         "Meaning": "n. प्र्तिनिधी",
+         "Sound": "sound740"
+      }
+   ],
+   "request": [
+      {
+         "Meaning": "n. बिन्ति, अनुरोध​, निवेदन​",
+         "Sound": "sound741"
+      }
+   ],
+   "research": [
+      {
+         "Meaning": "n. अनुसन्धान​",
+         "Sound": "sound742"
+      }
+   ],
+   "resources": [
+      {
+         "Meaning": "n. साधन​, उपाय",
+         "Sound": "sound743"
+      }
+   ],
+   "respect": [
+      {
+         "Meaning": "v. मान्नु, आदर गर्नु, सत्कार गर्नु",
+         "Sound": "sound744"
+      },
+      {
+         "Meaning": "n. मान​, अभिबादन​, सम्मान​, इज्जत​",
+         "Sound": "sound745"
+      }
+   ],
+   "responsibility": [
+      {
+         "Meaning": "n. जिम्मा, जिम्मेवरी, दायित्व​",
+         "Sound": "sound746"
+      }
+   ],
+   "rest": [
+      {
+         "Meaning": "v. आराम गर्नु",
+         "Sound": "sound747"
+      }
+   ],
+   "restore": [
+      {
+         "Meaning": "v. जस्ताको त्यस्तो पार्नु, पुनःस्थान गर्नु",
+         "Sound": "sound748"
+      }
+   ],
+   "result": [
+      {
+         "Meaning": "n. परिणाम​, नतिजा, फल​",
+         "Sound": "sound749"
+      }
+   ],
+   "return": [
+      {
+         "Meaning": "n. फिर्ता / **return to** (v) फर्कनु, फर्किनु",
+         "Sound": "sound750"
+      }
+   ],
+   "review": [
+      {
+         "Meaning": "v. फेरि हेर्नु, पुनर्बिचार गर्नु",
+         "Sound": "sound751"
+      }
+   ],
+   "revise": [
+      {
+         "Meaning": "v. दोहोराउनु, आबृत्ति गर्नु",
+         "Sound": "sound752"
+      }
+   ],
+   "revision": [
+      {
+         "Meaning": "n. संशोधन​, दोह्र्याउने काम​",
+         "Sound": "sound753"
+      }
+   ],
+   "rhinoceros": [
+      {
+         "Meaning": "n. गैंडा",
+         "Sound": "sound754"
+      }
+   ],
+   "right": [
+      {
+         "Meaning": "n. अधिकार​, हक",
+         "Sound": "sound755"
+      }
+   ],
+   "ring": [
+      {
+         "Meaning": "v. बज्नु, बजाउनु",
+         "Sound": "sound756"
+      }
+   ],
+   "ripen": [
+      {
+         "Meaning": "v. पाक्नु",
+         "Sound": "sound757"
+      }
+   ],
+   "river": [
+      {
+         "Meaning": "n. नदच",
+         "Sound": "sound758"
+      }
+   ],
+   "road": [
+      {
+         "Meaning": "n. सडक, बाटो, मागि",
+         "Sound": "sound759"
+      }
+   ],
+   "rock": [
+      {
+         "Meaning": "n. ढुङ्गा",
+         "Sound": "sound760"
+      }
+   ],
+   "roof": [
+      {
+         "Meaning": "n. छानु, छाना",
+         "Sound": "sound761"
+      }
+   ],
+   "room": [
+      {
+         "Meaning": "n. कोठा",
+         "Sound": "sound762"
+      }
+   ],
+   "routine": [
+      {
+         "Meaning": "n. कार्यक्र्म​, रुटिन​, दिनचर्या, नित्यकर्मको ब्यब्स्था",
+         "Sound": "sound763"
+      }
+   ],
+   "rudiment": [
+      {
+         "Meaning": "n. मूलसुत्र​, सुत्रपात​, आरम्भ​, मूल तत्व",
+         "Sound": "sound764"
+      }
+   ],
+   "rule": [
+      {
+         "Meaning": "n. नियम​",
+         "Sound": "sound765"
+      }
+   ],
+   "run": [
+      {
+         "Meaning": "v. कुदनु, दगुर्नु, बग्नु, भाग्नु / **administer** (v) संचालन गर्नु, चलाउनु",
+         "Sound": "sound766"
+      }
+   ],
+   "rupee": [
+      {
+         "Meaning": "n. रुपिया",
+         "Sound": "sound767"
+      }
+   ],
+   "sack": [
+      {
+         "Meaning": "n. बोरा",
+         "Sound": "sound768"
+      }
+   ],
+   "sadness": [
+      {
+         "Meaning": "n. दु:ख",
+         "Sound": "sound769"
+      }
+   ],
+   "salary": [
+      {
+         "Meaning": "n. तलब",
+         "Sound": "sound770"
+      }
+   ],
+   "sale": [
+      {
+         "Meaning": "n. बिक्रि",
+         "Sound": "sound771"
+      }
+   ],
+   "salt": [
+      {
+         "Meaning": "n. नुन​",
+         "Sound": "sound772"
+      }
+   ],
+   "sample": [
+      {
+         "Meaning": "n. नमनाु",
+         "Sound": "sound773"
+      }
+   ],
+   "satisfaction": [
+      {
+         "Meaning": "n. सन्तोष​, सन्तोक​",
+         "Sound": "sound774"
+      }
+   ],
+   "saturday": [
+      {
+         "Meaning": "n. शनिवार​",
+         "Sound": "sound775"
+      }
+   ],
+   "saturn": [
+      {
+         "Meaning": "n. शनि",
+         "Sound": "sound776"
+      }
+   ],
+   "save": [
+      {
+         "Meaning": "v. बचाउनु, संचय गर्नु, जोगाउनु",
+         "Sound": "sound777"
+      }
+   ],
+   "say": [
+      {
+         "Meaning": "v. भन्नु",
+         "Sound": "sound778"
+      }
+   ],
+   "science": [
+      {
+         "Meaning": "n. बिज्ञान​",
+         "Sound": "sound779"
+      }
+   ],
+   "scissors": [
+      {
+         "Meaning": "n. कैंची",
+         "Sound": "sound780"
+      }
+   ],
+   "scold": [
+      {
+         "Meaning": "v. गालि गर्नु, हपार्नु",
+         "Sound": "sound781"
+      }
+   ],
+   "search": [
+      {
+         "Meaning": "v. खोज्नु",
+         "Sound": "sound782"
+      }
+   ],
+   "secret": [
+      {
+         "Meaning": "n. गुप्ती, गुप्त​, गोप्य​",
+         "Sound": "sound783"
+      }
+   ],
+   "secretary": [
+      {
+         "Meaning": "n. सचिब​",
+         "Sound": "sound784"
+      }
+   ],
+   "section": [
+      {
+         "Meaning": "n. फांट​",
+         "Sound": "sound785"
+      }
+   ],
+   "see": [
+      {
+         "Meaning": "v. देख्नु",
+         "Sound": "sound786"
+      }
+   ],
+   "seed": [
+      {
+         "Meaning": "n. बिउ",
+         "Sound": "sound787"
+      }
+   ],
+   "seedling": [
+      {
+         "Meaning": "n. बिरुवा",
+         "Sound": "sound788"
+      }
+   ],
+   "selection": [
+      {
+         "Meaning": "n. छानबीन​, रोजाई",
+         "Sound": "sound789"
+      }
+   ],
+   "selfishness": [
+      {
+         "Meaning": "n. स्वार्थ बुद्धी, स्वार्थिपन​",
+         "Sound": "sound790"
+      }
+   ],
+   "self respect": [
+      {
+         "Meaning": "n. आत्मबिशवास​",
+         "Sound": "sound791"
+      }
+   ],
+   "sell": [
+      {
+         "Meaning": "v. बेच्नु",
+         "Sound": "sound792"
+      }
+   ],
+   "send back": [
+      {
+         "Meaning": "v. फर्काउनु",
+         "Sound": "sound793"
+      }
+   ],
+   "service": [
+      {
+         "Meaning": "n. नोकरी, सेवा",
+         "Sound": "sound794"
+      }
+   ],
+   "settle": [
+      {
+         "Meaning": "v. बसोबास गर्नु",
+         "Sound": "sound795"
+      }
+   ],
+   "sewing": [
+      {
+         "Meaning": "n. सिलाई",
+         "Sound": "sound796"
+      }
+   ],
+   "shirt": [
+      {
+         "Meaning": "n. कमिज​",
+         "Sound": "sound797"
+      }
+   ],
+   "shoe": [
+      {
+         "Meaning": "n. जुत्ता",
+         "Sound": "sound798"
+      }
+   ],
+   "shop": [
+      {
+         "Meaning": "n. पसल",
+         "Sound": "sound799"
+      }
+   ],
+   "show": [
+      {
+         "Meaning": "v. देखाउनु / (n) प्र्दर्शन​",
+         "Sound": "sound800"
+      }
+   ],
+   "signature": [
+      {
+         "Meaning": "n. सही",
+         "Sound": "sound801"
+      }
+   ],
+   "silver": [
+      {
+         "Meaning": "n. चाँदी",
+         "Sound": "sound802"
+      }
+   ],
+   "sing": [
+      {
+         "Meaning": "v. गाउनु",
+         "Sound": "sound803"
+      }
+   ],
+   "sir": [
+      {
+         "Meaning": "n. साहेब​ / **business letter** (n) महोदय",
+         "Sound": "sound804"
+      }
+   ],
+   "sitar": [
+      {
+         "Meaning": "n. सितार​",
+         "Sound": "sound805"
+      }
+   ],
+   "situation": [
+      {
+         "Meaning": "n. स्थिति, अवस्था, हालत​",
+         "Sound": "sound806"
+      }
+   ],
+   "skill": [
+      {
+         "Meaning": "n. थसप, सिप​, दक्षता, सिपालुपन​, चातुर्य​",
+         "Sound": "sound807"
+      }
+   ],
+   "skin": [
+      {
+         "Meaning": "n. छाला",
+         "Sound": "sound808"
+      }
+   ],
+   "sleep": [
+      {
+         "Meaning": "v. सुत्नु",
+         "Sound": "sound809"
+      }
+   ],
+   "slip": [
+      {
+         "Meaning": "v. चिप्लिनु",
+         "Sound": "sound810"
+      }
+   ],
+   "smallpox": [
+      {
+         "Meaning": "n. बिफर​",
+         "Sound": "sound811"
+      }
+   ],
+   "snack": [
+      {
+         "Meaning": "n. खाजा",
+         "Sound": "sound812"
+      }
+   ],
+   "snatch": [
+      {
+         "Meaning": "v. खोस्नु",
+         "Sound": "sound813"
+      }
+   ],
+   "snow": [
+      {
+         "Meaning": "n. हिउँ",
+         "Sound": "sound814"
+      }
+   ],
+   "society": [
+      {
+         "Meaning": "n. समाज",
+         "Sound": "sound815"
+      }
+   ],
+   "sociology": [
+      {
+         "Meaning": "n. समाज-शास्त्र्",
+         "Sound": "sound816"
+      }
+   ],
+   "socks": [
+      {
+         "Meaning": "n. मोजा",
+         "Sound": "sound817"
+      }
+   ],
+   "soil": [
+      {
+         "Meaning": "n. माटो",
+         "Sound": "sound818"
+      }
+   ],
+   "soldier": [
+      {
+         "Meaning": "n. सैनिक​",
+         "Sound": "sound819"
+      }
+   ],
+   "sorrow": [
+      {
+         "Meaning": "n. करुण​, दुःखद​",
+         "Sound": "sound820"
+      }
+   ],
+   "sound": [
+      {
+         "Meaning": "n. आवाज​",
+         "Sound": "sound821"
+      }
+   ],
+   "source": [
+      {
+         "Meaning": "n. श्रोत​",
+         "Sound": "sound822"
+      }
+   ],
+   "south": [
+      {
+         "Meaning": "n. दिघण",
+         "Sound": "sound823"
+      }
+   ],
+   "sow": [
+      {
+         "Meaning": "v. छर्नु",
+         "Sound": "sound824"
+      }
+   ],
+   "sparkle": [
+      {
+         "Meaning": "n. जगमग",
+         "Sound": "sound825"
+      },
+      {
+         "Meaning": "v. झल्क​नु, टल्क​नु",
+         "Sound": "sound826"
+      }
+   ],
+   "speak": [
+      {
+         "Meaning": "v. बोल्नु",
+         "Sound": "sound827"
+      }
+   ],
+   "speak with": [
+      {
+         "Meaning": "v. कुरा गर्नु",
+         "Sound": "sound828"
+      }
+   ],
+   "specially": [
+      {
+         "Meaning": "n. विशेषगरेर​",
+         "Sound": "sound829"
+      }
+   ],
+   "speech": [
+      {
+         "Meaning": "n. प्र्वचन​, भाषण​",
+         "Sound": "sound830"
+      }
+   ],
+   "speed": [
+      {
+         "Meaning": "n. गति",
+         "Sound": "sound831"
+      }
+   ],
+   "spend": [
+      {
+         "Meaning": "v. खर्च गर्नु",
+         "Sound": "sound832"
+      }
+   ],
+   "spike": [
+      {
+         "Meaning": "n. कीला, तिखो काँडा",
+         "Sound": "sound833"
+      }
+   ],
+   "spoon": [
+      {
+         "Meaning": "n. चम्चा",
+         "Sound": "sound834"
+      }
+   ],
+   "sport": [
+      {
+         "Meaning": "n. खेलकुद​",
+         "Sound": "sound835"
+      }
+   ],
+   "staff": [
+      {
+         "Meaning": "n. कर्मचारी, कार्यकर्ता",
+         "Sound": "sound836"
+      }
+   ],
+   "stake": [
+      {
+         "Meaning": "n. काठको किला",
+         "Sound": "sound837"
+      }
+   ],
+   "stamp": [
+      {
+         "Meaning": "n. टिकट​ / **office seal** (n) छाप",
+         "Sound": "sound838"
+      }
+   ],
+   "start": [
+      {
+         "Meaning": "v. थाल्नु, शुरु गर्नु",
+         "Sound": "sound839"
+      }
+   ],
+   "state": [
+      {
+         "Meaning": "n. मुलूक​, राज्य​",
+         "Sound": "sound840"
+      }
+   ],
+   "statistics": [
+      {
+         "Meaning": "n. तथ्याङ्क​",
+         "Sound": "sound841"
+      }
+   ],
+   "statue": [
+      {
+         "Meaning": "n. मुर्ति",
+         "Sound": "sound842"
+      }
+   ],
+   "stipend": [
+      {
+         "Meaning": "n. भत्ता",
+         "Sound": "sound843"
+      }
+   ],
+   "stir": [
+      {
+         "Meaning": "v. चलाउनु",
+         "Sound": "sound844"
+      }
+   ],
+   "stomach": [
+      {
+         "Meaning": "n. पेट",
+         "Sound": "sound845"
+      }
+   ],
+   "stone": [
+      {
+         "Meaning": "n. ढुङ्गा",
+         "Sound": "sound846"
+      }
+   ],
+   "store": [
+      {
+         "Meaning": "n. पसल",
+         "Sound": "sound847"
+      }
+   ],
+   "story": [
+      {
+         "Meaning": "n. कथा",
+         "Sound": "sound848"
+      }
+   ],
+   "strength": [
+      {
+         "Meaning": "n. बल, ताकत, सामर्थ्य​",
+         "Sound": "sound849"
+      }
+   ],
+   "student": [
+      {
+         "Meaning": "n. बिध्यार्थी",
+         "Sound": "sound850"
+      }
+   ],
+   "hostel": [
+      {
+         "Meaning": "n. छात्र्बास​",
+         "Sound": "sound851"
+      }
+   ],
+   "study": [
+      {
+         "Meaning": "v. पढ्नु, अध्यन गर्नु",
+         "Sound": "sound852"
+      }
+   ],
+   "submit": [
+      {
+         "Meaning": "v. पेश गर्नु",
+         "Sound": "sound853"
+      }
+   ],
+   "subsidy": [
+      {
+         "Meaning": "n. अनदानु, आर्थिक सहायता",
+         "Sound": "sound854"
+      }
+   ],
+   "subtract": [
+      {
+         "Meaning": "v. घटाउनु",
+         "Sound": "sound855"
+      }
+   ],
+   "subtraction": [
+      {
+         "Meaning": "n. घटाउ",
+         "Sound": "sound856"
+      }
+   ],
+   "sugar": [
+      {
+         "Meaning": "n. चिनी",
+         "Sound": "sound857"
+      }
+   ],
+   "suggestion": [
+      {
+         "Meaning": "n. सुझाव​, प्र्स्ताब​",
+         "Sound": "sound858"
+      }
+   ],
+   "summon": [
+      {
+         "Meaning": "v. डाक्नु, समन गर्नु, आह्ववान गर्नु",
+         "Sound": "sound859"
+      }
+   ],
+   "sun": [
+      {
+         "Meaning": "n. सुर्य​",
+         "Sound": "sound860"
+      }
+   ],
+   "sunday": [
+      {
+         "Meaning": "n. आइतवार",
+         "Sound": "sound861"
+      }
+   ],
+   "sunshine": [
+      {
+         "Meaning": "n. घाम",
+         "Sound": "sound862"
+      }
+   ],
+   "sunlight": [
+      {
+         "Meaning": "n. घाम",
+         "Sound": "sound863"
+      }
+   ],
+   "superstition": [
+      {
+         "Meaning": "n. कुरुती, अन्धविश्वास​, रुढिबादी",
+         "Sound": "sound864"
+      }
+   ],
+   "supervise": [
+      {
+         "Meaning": "v. रेखदेख गर्नु",
+         "Sound": "sound865"
+      }
+   ],
+   "supervision": [
+      {
+         "Meaning": "n. निर्देशन​",
+         "Sound": "sound866"
+      }
+   ],
+   "support": [
+      {
+         "Meaning": "n. समर्थन​, आधार​, पालन​-पोषण​",
+         "Sound": "sound867"
+      }
+   ],
+   "surplus": [
+      {
+         "Meaning": "n. बढ्ता, बाँकी रहेको कुरा",
+         "Sound": "sound868"
+      }
+   ],
+   "survey": [
+      {
+         "Meaning": "n. नापजांच​, नापी, सर्बेक्षण​",
+         "Sound": "sound869"
+      }
+   ],
+   "suspicion": [
+      {
+         "Meaning": "n. शंका",
+         "Sound": "sound870"
+      }
+   ],
+   "sweep": [
+      {
+         "Meaning": "v. बडार्नु, बढार्नु",
+         "Sound": "sound871"
+      }
+   ],
+   "swim": [
+      {
+         "Meaning": "v. पौडी खेल्ने",
+         "Sound": "sound872"
+      }
+   ],
+   "swing": [
+      {
+         "Meaning": "n. पिङ्ग​",
+         "Sound": "sound873"
+      }
+   ],
+   "symbol": [
+      {
+         "Meaning": "n. संकेत​, इशारा, चिन्ह​",
+         "Sound": "sound874"
+      }
+   ],
+   "table": [
+      {
+         "Meaning": "n. टेबुल​",
+         "Sound": "sound875"
+      }
+   ],
+   "talk": [
+      {
+         "Meaning": "v. कुरा गर्नु",
+         "Sound": "sound876"
+      }
+   ],
+   "taste": [
+      {
+         "Meaning": "n. स्वाद​",
+         "Sound": "sound877"
+      }
+   ],
+   "tax": [
+      {
+         "Meaning": "n. कर / (v) कर लगाउनु",
+         "Sound": "sound878"
+      }
+   ],
+   "tea": [
+      {
+         "Meaning": "n. चिया",
+         "Sound": "sound879"
+      }
+   ],
+   "teach": [
+      {
+         "Meaning": "v. सिकाउनु, पढाउनु",
+         "Sound": "sound880"
+      }
+   ],
+   "teacher": [
+      {
+         "Meaning": "n. शिक्षक​, गुरु",
+         "Sound": "sound881"
+      }
+   ],
+   "technician": [
+      {
+         "Meaning": "n. प्राबिधिकज्ञ",
+         "Sound": "sound882"
+      }
+   ],
+   "tell": [
+      {
+         "Meaning": "v. भन्नु",
+         "Sound": "sound883"
+      }
+   ],
+   "temple": [
+      {
+         "Meaning": "n. मन्दिर​",
+         "Sound": "sound884"
+      }
+   ],
+   "test": [
+      {
+         "Meaning": "n. जांच",
+         "Sound": "sound885"
+      }
+   ],
+   "thing": [
+      {
+         "Meaning": "n. कुरा, चिज​",
+         "Sound": "sound886"
+      }
+   ],
+   "things": [
+      {
+         "Meaning": "n. चिजबिज​",
+         "Sound": "sound887"
+      }
+   ],
+   "think": [
+      {
+         "Meaning": "v. सोच्नु, विचार गर्नु",
+         "Sound": "sound888"
+      }
+   ],
+   "thirst": [
+      {
+         "Meaning": "n. तिर्खा",
+         "Sound": "sound889"
+      }
+   ],
+   "thought": [
+      {
+         "Meaning": "n. विचार​",
+         "Sound": "sound890"
+      }
+   ],
+   "thousand": [
+      {
+         "Meaning": "n. हजार",
+         "Sound": "sound891"
+      }
+   ],
+   "throat": [
+      {
+         "Meaning": "n. घाँटी",
+         "Sound": "sound892"
+      }
+   ],
+   "thursday": [
+      {
+         "Meaning": "n. बिहिबार​",
+         "Sound": "sound893"
+      }
+   ],
+   "ticket": [
+      {
+         "Meaning": "n. टिकट",
+         "Sound": "sound894"
+      }
+   ],
+   "tika": [
+      {
+         "Meaning": "n. टिका",
+         "Sound": "sound895"
+      }
+   ],
+   "time": [
+      {
+         "Meaning": "n. बेला, समय​, बखत​, काल​ / **occurrence** (n) पटक​, पल्ट​, चोटी",
+         "Sound": "sound896"
+      }
+   ],
+   "tired": [
+      {
+         "Meaning": "v. थाक्नु",
+         "Sound": "sound897"
+      }
+   ],
+   "tobacco": [
+      {
+         "Meaning": "n. तमाखु, सुर्ती",
+         "Sound": "sound898"
+      }
+   ],
+   "tools": [
+      {
+         "Meaning": "n. औजार",
+         "Sound": "sound899"
+      }
+   ],
+   "tooth": [
+      {
+         "Meaning": "n. दाँत",
+         "Sound": "sound900"
+      }
+   ],
+   "total": [
+      {
+         "Meaning": "n. जम्मा",
+         "Sound": "sound901"
+      }
+   ],
+   "tour": [
+      {
+         "Meaning": "n. भ्र्मण​",
+         "Sound": "sound902"
+      }
+   ],
+   "tourist": [
+      {
+         "Meaning": "n. पर्यटक​, टुरिस्ट​",
+         "Sound": "sound903"
+      }
+   ],
+   "trade": [
+      {
+         "Meaning": "n. व्यापार​",
+         "Sound": "sound904"
+      }
+   ],
+   "tragedy": [
+      {
+         "Meaning": "n. बियोग​",
+         "Sound": "sound905"
+      }
+   ],
+   "training": [
+      {
+         "Meaning": "n. तालिम​",
+         "Sound": "sound906"
+      }
+   ],
+   "transfer": [
+      {
+         "Meaning": "v. सर्नु, सरुवा गर्नु",
+         "Sound": "sound907"
+      }
+   ],
+   "translation": [
+      {
+         "Meaning": "n. अनुबाद​, उल्था",
+         "Sound": "sound908"
+      }
+   ],
+   "transportation": [
+      {
+         "Meaning": "n. यातायात​",
+         "Sound": "sound909"
+      }
+   ],
+   "travel": [
+      {
+         "Meaning": "v. घुम्नु, यात्रा गर्नु, सफर गर्नु",
+         "Sound": "sound910"
+      }
+   ],
+   "tree": [
+      {
+         "Meaning": "n. रुख​, बोट​",
+         "Sound": "sound911"
+      }
+   ],
+   "trouble": [
+      {
+         "Meaning": "n. तकलिफ​, दुःख​",
+         "Sound": "sound912"
+      }
+   ],
+   "truth": [
+      {
+         "Meaning": "n. सत्यता",
+         "Sound": "sound913"
+      }
+   ],
+   "try": [
+      {
+         "Meaning": "v. कोशिश गर्नु",
+         "Sound": "sound914"
+      }
+   ],
+   "tuesday": [
+      {
+         "Meaning": "n. मङ्गलबार​",
+         "Sound": "sound915"
+      }
+   ],
+   "turn": [
+      {
+         "Meaning": "n. पालो",
+         "Sound": "sound916"
+      }
+   ],
+   "turtle": [
+      {
+         "Meaning": "n. कछुवा",
+         "Sound": "sound917"
+      }
+   ],
+   "type": [
+      {
+         "Meaning": "n. थोक, किसिम​, प्र्कार​, खाल​",
+         "Sound": "sound918"
+      }
+   ],
+   "umbrella": [
+      {
+         "Meaning": "n. छाता",
+         "Sound": "sound919"
+      }
+   ],
+   "unanimity": [
+      {
+         "Meaning": "n. एकमतता, सर्वसम्मति, एकमत​, मतैक्य​",
+         "Sound": "sound920"
+      }
+   ],
+   "unification": [
+      {
+         "Meaning": "n. एकिकरण​",
+         "Sound": "sound921"
+      }
+   ],
+   "unit": [
+      {
+         "Meaning": "n. एकाई",
+         "Sound": "sound922"
+      }
+   ],
+   "united Nations": [
+      {
+         "Meaning": "n. संयुत्त राष्ट्र् संघ​",
+         "Sound": "sound923"
+      }
+   ],
+   "unity": [
+      {
+         "Meaning": "n. एकता",
+         "Sound": "sound924"
+      }
+   ],
+   "universe": [
+      {
+         "Meaning": "n. बिश्व​",
+         "Sound": "sound925"
+      }
+   ],
+   "university": [
+      {
+         "Meaning": "n. बिश्व​बिधालय​",
+         "Sound": "sound926"
+      }
+   ],
+   "usage": [
+      {
+         "Meaning": "n. प्र्योग​, व्यबहार​",
+         "Sound": "sound927"
+      }
+   ],
+   "use": [
+      {
+         "Meaning": "n. प्र्योग​, चलन​",
+         "Sound": "sound928"
+      }
+   ],
+   "usefulness": [
+      {
+         "Meaning": "n. उपयोगिता, उपकारिता",
+         "Sound": "sound929"
+      }
+   ],
+   "utensil": [
+      {
+         "Meaning": "n. भाँडा कुंडा",
+         "Sound": "sound930"
+      }
+   ],
+   "utility": [
+      {
+         "Meaning": "n. उपयोगी, उपयुत्त​, उपयोगिता",
+         "Sound": "sound931"
+      }
+   ],
+   "vacancy": [
+      {
+         "Meaning": "n. रिक्त्त स्थान​",
+         "Sound": "sound932"
+      }
+   ],
+   "vacation": [
+      {
+         "Meaning": "n. बिदा, छुट्टी",
+         "Sound": "sound933"
+      }
+   ],
+   "value": [
+      {
+         "Meaning": "n. मुल्य​",
+         "Sound": "sound934"
+      }
+   ],
+   "vegetable garden": [
+      {
+         "Meaning": "n. साग​-बारि, तर्कारी बारी",
+         "Sound": "sound935"
+      }
+   ],
+   "venus": [
+      {
+         "Meaning": "n. शुक्र्",
+         "Sound": "sound936"
+      }
+   ],
+   "village": [
+      {
+         "Meaning": "n. गाउँ",
+         "Sound": "sound937"
+      }
+   ],
+   "visit": [
+      {
+         "Meaning": "v. दशर्न गर्नु",
+         "Sound": "sound938"
+      }
+   ],
+   "voluntary labor": [
+      {
+         "Meaning": "n. श्र्मदान​",
+         "Sound": "sound939"
+      }
+   ],
+   "wait": [
+      {
+         "Meaning": "v. पर्खनु, पर्खिनु",
+         "Sound": "sound940"
+      }
+   ],
+   "walk": [
+      {
+         "Meaning": "v. हिड्नु, हिडेर जानु",
+         "Sound": "sound941"
+      }
+   ],
+   "want": [
+      {
+         "Meaning": "v. चाहनु",
+         "Sound": "sound942"
+      }
+   ],
+   "warehouse": [
+      {
+         "Meaning": "n. गोदाम",
+         "Sound": "sound943"
+      }
+   ],
+   "wash": [
+      {
+         "Meaning": "n. धुनु, माझ्नु",
+         "Sound": "sound944"
+      }
+   ],
+   "watch": [
+      {
+         "Meaning": "n. घडी / हेर्नु",
+         "Sound": "sound945"
+      }
+   ],
+   "watchman": [
+      {
+         "Meaning": "n. पाले",
+         "Sound": "sound946"
+      }
+   ],
+   "water": [
+      {
+         "Meaning": "n. पानी",
+         "Sound": "sound947"
+      }
+   ],
+   "water hole": [
+      {
+         "Meaning": "n. कूवा",
+         "Sound": "sound948"
+      }
+   ],
+   "water pipe": [
+      {
+         "Meaning": "n. नली",
+         "Sound": "sound949"
+      }
+   ],
+   "water resources": [
+      {
+         "Meaning": "n. जल श्रोत​",
+         "Sound": "sound950"
+      }
+   ],
+   "water supply": [
+      {
+         "Meaning": "n. खाने पानी बितरण​",
+         "Sound": "sound951"
+      }
+   ],
+   "watershed": [
+      {
+         "Meaning": "n. जलाधार",
+         "Sound": "sound952"
+      }
+   ],
+   "way": [
+      {
+         "Meaning": "n. उपाय",
+         "Sound": "sound953"
+      }
+   ],
+   "wealth": [
+      {
+         "Meaning": "n. सम्पती",
+         "Sound": "sound954"
+      }
+   ],
+   "wear": [
+      {
+         "Meaning": "v. लगाउनु, लाउनु",
+         "Sound": "sound955"
+      }
+   ],
+   "weather": [
+      {
+         "Meaning": "n. मौसम",
+         "Sound": "sound956"
+      }
+   ],
+   "wednesday": [
+      {
+         "Meaning": "n. बुधबार​",
+         "Sound": "sound957"
+      }
+   ],
+   "weight": [
+      {
+         "Meaning": "n. तौल",
+         "Sound": "sound958"
+      }
+   ],
+   "well": [
+      {
+         "Meaning": "n. इनार",
+         "Sound": "sound959"
+      }
+   ],
+   "west": [
+      {
+         "Meaning": "n. परिश्र्म​",
+         "Sound": "sound960"
+      }
+   ],
+   "wheat": [
+      {
+         "Meaning": "n. गहुँ",
+         "Sound": "sound961"
+      }
+   ],
+   "window": [
+      {
+         "Meaning": "n. झ्याल​",
+         "Sound": "sound962"
+      }
+   ],
+   "work": [
+      {
+         "Meaning": "n. काम, कार्य​ / (v) काम गर्नु",
+         "Sound": "sound963"
+      }
+   ],
+   "worker": [
+      {
+         "Meaning": "n. कार्यकर्ता, कामदार​",
+         "Sound": "sound964"
+      }
+   ],
+   "world": [
+      {
+         "Meaning": "n. संसार​, लोक​",
+         "Sound": "sound965"
+      }
+   ],
+   "worry": [
+      {
+         "Meaning": "n. पिर​",
+         "Sound": "sound966"
+      }
+   ],
+   "worship": [
+      {
+         "Meaning": "v. पुजा गर्नु",
+         "Sound": "sound967"
+      }
+   ],
+   "writer": [
+      {
+         "Meaning": "n. लेखक​",
+         "Sound": "sound968"
+      }
+   ],
+   "yak": [
+      {
+         "Meaning": "n. याक, चौरी",
+         "Sound": "sound969"
+      }
+   ],
+   "year": [
+      {
+         "Meaning": "n. बर्ष​, साल",
+         "Sound": "sound970"
+      }
+   ],
+   "yogurt": [
+      {
+         "Meaning": "n. दहि",
+         "Sound": "sound971"
+      }
+   ],
+   "youth": [
+      {
+         "Meaning": "n. जवान",
+         "Sound": "sound972"
+      }
+   ],
+   "zonal commissioner": [
+      {
+         "Meaning": "n. अञ्चलाधिश​",
+         "Sound": "sound973"
+      }
+   ],
+   "zone": [
+      {
+         "Meaning": "n. अञ्चल​",
+         "Sound": "sound974"
+      }
+   ],
+   "zoology": [
+      {
+         "Meaning": "n. प्राणी-बिज्ञान​",
+         "Sound": "sound975"
+      }
+   ]
+}
